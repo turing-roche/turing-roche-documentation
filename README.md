@@ -10,4 +10,7 @@ The **'North Star'** of our five year partnership is to _enable the generation o
 
 We will be covering multiple research and community activities to work towards our North Star, as well as building strong connections and collaborations between the Alan Turing Institute, Roche and the wider community. You can find more info on the partnership, who's involved and our current projects on our [website](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership).
  
+## ♻️ License
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+This work is licensed under the Creative Commons Attribution 4.0 International license for documentation. You are free to share and adapt the material for any purpose, even commercially, as long as you provide attribution (give appropriate credit, provide a link to the license, and indicate if changes were made) in any reasonable manner, but not in any way that suggests the licensor endorses you or your use, and with no additional restrictions.
