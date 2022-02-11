@@ -8,7 +8,17 @@ The Alan Turing Institute and Roche officially set up our five year strategic pa
  
 The **'North Star'** of our five year partnership is to _enable the generation of insights to better understand patient and disease heterogeneity and its relevance to clinical outcomes at an unprecedented level of precision in order to improve clinical care_.
 
-We will be covering multiple research and community activities to work towards our North Star, as well as building strong connections and collaborations between the Alan Turing Institute, Roche and the wider community. You can find more info on the partnership, who's involved and our current projects on our [website](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership).
+We will be covering multiple research and community activities to work towards our North Star, as well as building strong connections and collaborations between the Alan Turing Institute, Roche and the wider community.
+
+## 📣 Communication Channels
+
+* Our [website](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership) has info on the partnership, who's involved and our current projects
+* We send out a newlsetter monthly which includes partnership updates and opportunities and jobs, events and funding calls from both The Alan Turing Institute and Roche. You can sign up [here](https://analytics-eu.clickdimensions.com/turingacuk-ap7zg/pages/gaajymqyeeypjwanotvtng.html?PageId=ca09a0193264ec118f8f000d3ad55336)
+* You can join our [Slack Workspace](https://join.slack.com/t/turingroche/shared_invite/zt-y5bnwynr-bN8gBb5g9c_dFHrnMggkjw) to connect with the team and the wider community
+
+## ☎️ Contact
+
+This repository is maintained by the Community Manager for the partnership, Vicky Hellon. You can reach her at vhellon@turing.ac.uk
  
 ## ♻️ License
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
