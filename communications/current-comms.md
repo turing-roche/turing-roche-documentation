@@ -1,3 +1,5 @@
+This document covers external communications. Internal communications i.e meetings are covered in the [Team Charter](https://github.com/alan-turing-institute/turing-roche-partnership/blob/main/partnership-team-charter.md).
+
 
 **<span style="text-decoration:underline;">Regular Communications </span>**
 
