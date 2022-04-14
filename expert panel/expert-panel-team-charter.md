@@ -84,9 +84,6 @@ https://join.slack.com/t/turingroche/shared_invite/zt-y5bnwynr-bN8gBb5g9c_dFHrnM
    <td>Institution
    </td>
    <td>Strength/Interests/Roles
-   </td>
-   <td>Email Address
-   </td>
   </tr>
   <tr>
    <td>Prof. Alejandro Frangi
@@ -94,9 +91,6 @@ https://join.slack.com/t/turingroche/shared_invite/zt-y5bnwynr-bN8gBb5g9c_dFHrnM
    <td>Leeds
    </td>
    <td>Imaging
-   </td>
-   <td>a.frangi@leeds.ac.uk
-   </td>
   </tr>
   <tr>
    <td>Dr. Florian Markowetz
@@ -104,9 +98,6 @@ https://join.slack.com/t/turingroche/shared_invite/zt-y5bnwynr-bN8gBb5g9c_dFHrnM
    <td>CRUK
    </td>
    <td>Computational Biology
-   </td>
-   <td>florian.markowetz@cruk.cam.ac.uk
-   </td>
   </tr>
   <tr>
    <td>Prof. Michael Barnes
@@ -114,29 +105,18 @@ https://join.slack.com/t/turingroche/shared_invite/zt-y5bnwynr-bN8gBb5g9c_dFHrnM
    <td>QMUL
    </td>
    <td>Bioinformatics
-   </td>
-   <td>m.r.barnes@qmul.ac.uk
-   </td>
-  </tr>
   <tr>
    <td>Prof. Heather Harrington
    </td>
    <td>Oxford
    </td>
    <td>Systems Biology
-   </td>
-   <td>harrington@maths.ox.ac.uk
-   </td>
-  </tr>
   <tr>
    <td>Prof. Zoe Kourtzi
    </td>
    <td>Cambridge
    </td>
    <td>Psychology & Neuroscience
-   </td>
-   <td>zkourtzi@turing.ac.uk
-   </td>
   </tr>
   <tr>
    <td>Prof. Chris Holmes
@@ -144,29 +124,19 @@ https://join.slack.com/t/turingroche/shared_invite/zt-y5bnwynr-bN8gBb5g9c_dFHrnM
    <td>The Alan Turing Institute
    </td>
    <td>Statistics, Causal inference, Machine learning
-   </td>
-   <td>cholmes@turing.ac.uk
-   </td>
-  </tr>
+   </tr>
   <tr>
    <td>Prof. Ben MacArthur
    </td>
    <td>The Alan Turing Institute
    </td>
    <td>Quantitative Biomedicine
-   </td>
-   <td>bmacarthur@turing.ac.uk
-   </td>
-  </tr>
   <tr>
    <td>Chris Harbron
    </td>
    <td>Roche
    </td>
    <td>Expert Statistical Scientist
-   </td>
-   <td>chris.harbron@roche.com
-   </td>
   </tr>
   <tr>
    <td>Ryan Copping
@@ -174,9 +144,6 @@ https://join.slack.com/t/turingroche/shared_invite/zt-y5bnwynr-bN8gBb5g9c_dFHrnM
    <td>Roche
    </td>
    <td>Global Head Data Science Acceleration
-   </td>
-   <td>coppingr@gene.com
-   </td>
   </tr>
   <tr>
    <td>Astrid Kiermaier
@@ -184,39 +151,24 @@ https://join.slack.com/t/turingroche/shared_invite/zt-y5bnwynr-bN8gBb5g9c_dFHrnM
    <td>Roche
    </td>
    <td>Data and Analytics - Early stage product development
-   </td>
-   <td>astrid.kiermaier@roche.com
-   </td>
-  </tr>
   <tr>
    <td>Gunther Jansen
    </td>
    <td>Roche
    </td>
    <td>Data Analytics and Imaging
-   </td>
-   <td>gunther.jansen@roche.com
-   </td>
-  </tr>
-  <tr>
+   <tr>
    <td>Markus Bundschus
    </td>
    <td>Roche
    </td>
    <td>Data Science Technologies
-   </td>
-   <td>markus.bundschus@roche.com
-   </td>
-  </tr>
-  <tr>
+   <tr>
    <td>Dan Ruderman
    </td>
    <td>Roche
    </td>
    <td>Digital Pathology
-   </td>
-   <td>rudermad@gene.com
-   </td>
   </tr>
   <tr>
    <td>Adam Knott
@@ -224,9 +176,6 @@ https://join.slack.com/t/turingroche/shared_invite/zt-y5bnwynr-bN8gBb5g9c_dFHrnM
    <td>Roche
    </td>
    <td>Clinical Development
-   </td>
-   <td>adam.knott@roche.com
-   </td>
   </tr>
 </table>
 
