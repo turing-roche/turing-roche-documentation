@@ -181,19 +181,8 @@ To develop methodology to enable the generation of insights to better understand
    </td>
    <td>
    </td>
-  </tr>
-  <tr>
-   <td><strong>Harry Meacher (HM)</strong>
-   </td>
-   <td><strong>Turing</strong>
-   </td>
-   <td>Research Project Manager in Health & Medical Sciences Programme
    </td>
    <td>
-   </td>
-   <td><strong>x</strong>
-   </td>
-   <td><strong>x</strong>
    </td>
    <td>
    </td>
@@ -315,7 +304,7 @@ To develop methodology to enable the generation of insights to better understand
    </td>
   </tr>
   <tr>
-   <td><strong>Kirstie Whitaker (KW)</strong>
+   <td><strong>Kirstie Whitaker (on maternity leave till Jan 2023) (KW)</strong>
    </td>
    <td><strong>Turing</strong>
    </td>
@@ -361,7 +350,7 @@ To develop methodology to enable the generation of insights to better understand
   <tr>
    <td><strong>Expert Panel</strong>
    </td>
-   <td colspan="2" ><strong>See link to <a href="https://docs.google.com/document/d/1VtH-_30UjiUMAYgXQxDv7opkcwbZOuZAXUukk6nd344/edit">EP Team Charter</a> for details.</strong>
+   <td colspan="2" ><strong>See link to <a href="https://github.com/alan-turing-institute/turing-roche-partnership/blob/main/expert%20panel/expert-panel-team-charter.md">EP Team Charter</a> for details.</strong>
    </td>
    <td>
    </td>
