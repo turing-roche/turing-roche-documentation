@@ -51,7 +51,7 @@ To develop methodology to enable the generation of insights to better understand
    </td>
   </tr>
   <tr>
-   <td><strong>Chris Holmes (CH-T)</strong>
+   <td><strong>Chris Holmes (CH(T))</strong>
    </td>
    <td><strong>Turing</strong>
    </td>
@@ -95,7 +95,7 @@ To develop methodology to enable the generation of insights to better understand
    </td>
   </tr>
   <tr>
-   <td><strong>Chris Harbron (CH-R)</strong>
+   <td><strong>Chris Harbron (CH(R))</strong>
    </td>
    <td><strong>Roche</strong>
    </td>
@@ -109,7 +109,30 @@ To develop methodology to enable the generation of insights to better understand
    </td>
    <td>
    </td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   </tr>
+  <tr>
+   <td><strong>Sarah McGough (SM) (covering for CH-R May-August 2022)</strong>
+   </td>
+   <td><strong>Roche</strong>
+   </td>
+   <td>Senior Data Scientist, Real-World Data Enabling Platform, Data Science, Product Development
+   </td>
    <td><strong>x</strong>
+   </td>
+   <td><strong>x</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td><strong>x</strong>  
    </td>
    <td>
    </td>
@@ -194,7 +217,7 @@ To develop methodology to enable the generation of insights to better understand
    </td>
   </tr>
   <tr>
-   <td><strong><em>Research Project Manager (Vacant)</em></strong>
+   <td><strong>Álvaro Sahun (AS)</strong>
    </td>
    <td><strong>Turing </strong>
    </td>
@@ -608,7 +631,7 @@ More on remit <a href="https://docs.google.com/presentation/d/17Hfd4WKbtrfxlw0BD
    </td>
    <td><em>CH(R)<strong>, </strong></em>CH(T), RC, BM, KP, NH
    </td>
-   <td>MOG (Minute taker while CH(R) is chair), HM
+   <td>MOG (Minute taker while CH(R) is chair), AS
    </td>
    <td>KW, CL, AM, MS, MOG, VH
    </td>
@@ -626,7 +649,7 @@ Turing store a copy in Sharepoint, Roche store a copy in Felix
 <p>
 More on remit <a href="https://docs.google.com/presentation/d/17Hfd4WKbtrfxlw0BDssbnfWCBZ4vTeb9jQhpeACk4U8/edit?usp=sharing">here</a>
    </td>
-   <td><em>CH(R)</em>,<strong> </strong>CH(T), RC, BM, KP, NH, HM, VH, MOG
+   <td><em>CH(R)</em>,<strong> </strong>CH(T), RC, BM, KP, NH, AS, VH, MOG
    </td>
    <td>
    </td>
@@ -658,7 +681,7 @@ More on remit <a href="https://docs.google.com/presentation/d/17Hfd4WKbtrfxlw0BD
    </td>
    <td>To share and discuss ideas, advanced analytics challenges and potential projects and solutions between the Turing and Roche, as well as identifying potential projects / areas of interest to be taken to the Joint Steering Committee (JSC)
    </td>
-   <td><em>VH</em>, CH(R), BM<strong>, </strong>CH(T), RC,<strong> </strong>AF, FM, MB, HH, ZK, AK, GJ, DR 
+   <td><em>VH</em>, CH(R), BM<strong>, </strong>CH(T), RC,<strong> </strong>, AS, AF, FM, MB, HH, ZK, AK, GJ, DR, AK
    </td>
    <td>
    </td>
@@ -690,29 +713,20 @@ More on remit <a href="https://docs.google.com/presentation/d/17Hfd4WKbtrfxlw0BD
    </td>
    <td>[meeting to be established] General catchup and direction of research area project(s)
    </td>
-   <td>RC, CH(R), BM, CH(T), relevant research lead(s), project team lead, expert panel?
+   <td>CH(R), BM, VH, AS?
    </td>
    <td>VH
    </td>
    <td>
    </td>
-   <td>Quarterly, 1 hour meeting with each project individually 
+   <td>Monthly, 30 min meeting with each individual project
    </td>
    <td>
    </td>
   </tr>
   <tr>
-   <td>Research Area- SM
-   </td>
-   <td>[meeting to be established] Catchup with funded projects  on progression of project and check in on needs for resources/training etc
-   </td>
-   <td>RM, VH, project team lead?
    </td>
    <td>
-   </td>
-   <td>
-   </td>
-   <td>Once a month
    </td>
    <td>
    </td>
@@ -727,18 +741,12 @@ More on remit <a href="https://docs.google.com/presentation/d/17Hfd4WKbtrfxlw0BD
    <td>
    </td>
    <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
   <tr>
    <td>Operations Team
    </td>
    <td>Day to day decision making and planning
    </td>
-   <td><strong>CH(R), BM</strong>, HM, VH, MOG
+   <td><em>AS/em>, CH(R), BM AS, VH, MOG
    </td>
    <td>
    </td>
@@ -754,13 +762,13 @@ More on remit <a href="https://docs.google.com/presentation/d/17Hfd4WKbtrfxlw0BD
    </td>
    <td>Delivery of daily operations
    </td>
-   <td>HM, VH, MOG
+   <td>AS, VH, MOG
    </td>
    <td>
    </td>
    <td>
    </td>
-   <td>Weekly Tuesdays 11am-12
+   <td>Weekly Tuesdays 11.30am-12.30
    </td>
    <td>No notes
    </td>
@@ -770,7 +778,7 @@ More on remit <a href="https://docs.google.com/presentation/d/17Hfd4WKbtrfxlw0BD
    </td>
    <td>Ensure internal management of scientific / operational opportunities and risk
    </td>
-   <td><em>HM</em>, BM, KP, CH(T), VH, KW, MS, AM, CL
+   <td><em>AS/em>, BM, KP, CH(T), VH, KW, MS, AM, CL
    </td>
    <td>
    </td>
