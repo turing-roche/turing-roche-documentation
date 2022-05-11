@@ -205,19 +205,7 @@ Scope of newsletter may need to be tweaked as partnership progresses
    </td>
   </tr>
   <tr>
-   <td>Genomics England ‘Mind the Gap’ piece 
-   </td>
-   <td>Piece about the SM workshops with context about health data equity
-   </td>
-   <td>Community Manager to coordinate, SM research lead to write
-   </td>
-   <td>Genomics England Community and beyond- anyone interested in research related to health data equity
-   </td>
-   <td>Helps promote the partnership ‘voice’ and make wider community aware of issues we’re tackling in the partnership
-   </td>
-   <td>Views, social media, new engagement in partnership
-   </td>
-   <td>Should be published May 2022
+
    </td>
   </tr>
 </table>
@@ -335,6 +323,21 @@ Scope of newsletter may need to be tweaked as partnership progresses
    </td>
    <td>Mid/late February
    </td>
+   </td>
+   <tr>
+   <td>Genomics England ‘Mind the Gap’ piece 
+   </td>
+   <td>Piece about the SM workshops with context about health data equity
+   </td>
+   <td>Community Manager to coordinate, SM research lead to write
+   </td>
+   <td>Genomics England Community and beyond- anyone interested in research related to health data equity
+   </td>
+   <td>Helps promote the partnership ‘voice’ and make wider community aware of issues we’re tackling in the partnership
+   </td>
+   <td>Views, social media, new engagement in partnership
+   </td>
+   <td>Published May 2022
   </tr>
 </table>
 
