@@ -4,8 +4,6 @@
 
 **Potential conferences for 2022**
 
-
-
 * March 21st-23rd [International Public Health Conference](https://public-health.magnusconferences.com/program/scientific-sessions/biostatistics-in-public-health). May be out of scope but have a Biostatistics in Public Health Section. Probably too late for this year but perhaps for 2023
 * June 12th-15th [Statisticians in the Pharmaceutical Industry PSI 2022](https://www.psiweb.org/conferences/about-the-conference). Had an ‘Assessment and Discovery of Treatment Effect Heterogeneity’ [session ](https://www.linkedin.com/pulse/assessment-discovery-treatment-effect-heterogeneity-psi-psi-community/)at last years conference. Have missed abstracts/poster submission deadlines. Early bird registration deadline 25th March 
 * July 18th-22nd [European Meeting of Statisticians](https://ems2022.org/). Quite broad- unsure of topics yet. Deadline for abstracts May 20th 
@@ -15,6 +13,10 @@
 * October 19th-21st [Non-Clinical Statistics Conference](https://ncs-conference.org/). Causal inference listed as a topic. Abstract submission 31st March
 * November 8th-10th [BioData World Congress](https://www.terrapinn.com/conference/biodata/index.stm) Digital transformation in pharma and healthcare. Looks like you can still request to speak.
 * November 26th- December 4th [2022 Conference on Neural Information Processing Systems](https://nips.cc/Conferences/FutureMeetings). Quite technical- machine learning and computational neuroscience. No registration/submission deadlines yet. In the past Roche has sponsored the Machine Learning for Health (ML4H) track and given sponsor remarks
+
+**Potential conferences for 2023**
+
+* January 9th-11th [2023 International Conference on Health Policy Statistics](https://ww2.amstat.org/meetings/ichps/2023/index.cfm). Could be interesting if we want to influence policy. Abstract deadline June 30th 2022.
 
 **Others**
 
