@@ -92,9 +92,9 @@ Scope of newsletter may need to be tweaked as partnership progresses
    </td>
    <td>Allows collaborative discussions, working and brainstorming for partnership research area
    </td>
-   <td>Only had one series so far- do we want to run a similar format for future workshops as we did for SM?
+   <td>SM format was successful, will reuse for future workshops and tweak depending on in-person, hybrid, virtual
    </td>
-   <td>Applications to associated funded call, engagement post-workshops
+   <td>Applications to associated funded call, engagement post-workshops, feedback from workshop
    </td>
   </tr>
   <tr>
@@ -128,7 +128,7 @@ Scope of newsletter may need to be tweaked as partnership progresses
    </td>
    <td>Further promotes the partnership and its research activities. Helps to build a wider community and ideas- without people ‘actively’ working on the partnership
    </td>
-   <td>Running a ‘first season’ April to July- then will assess how they went/format, what we could do better, what areas we should cover
+   <td>Running a ‘first season’ April to July- then will assess how they went/format, what we could do better, what areas we should cover. For autumn 2022 experimenting with new elements such as polls, networking etc.
    </td>
    <td>Number of people attending, views on recording, new engagement in the partnership 
    </td>
@@ -154,22 +154,6 @@ Scope of newsletter may need to be tweaked as partnership progresses
    <td><em>Measuring impact</em>
    </td>
    <td><em>When</em>
-   </td>
-  </tr>
-  <tr>
-   <td>Announcement of successful SM funding- news story
-   </td>
-   <td>Communicating the successful funding projects, what they want to achieve, reminder of the background of the partnership 
-   </td>
-   <td>Community Manager with partnership team and comms input
-   </td>
-   <td>Those already in the partnership community and also to expand awareness of the partnership and what we’re working on to new interested parties
-   </td>
-   <td>Want to make a big splash about the partnerships first funded projects and attract new people to the community 
-   </td>
-   <td>Views on the news story, new interest/engagement in the partnership e.g through Slack
-   </td>
-   <td>May time? Once contracts are signed 
    </td>
   </tr>
   <tr>
@@ -338,6 +322,22 @@ Scope of newsletter may need to be tweaked as partnership progresses
    <td>Views, social media, new engagement in partnership
    </td>
    <td>Published May 2022
+  </tr>
+    <tr>
+   <td>Announcement of successful SM funding- news story
+   </td>
+   <td>Communicating the successful funding projects, what they want to achieve, reminder of the background of the partnership 
+   </td>
+   <td>Community Manager with partnership team and comms input
+   </td>
+   <td>Those already in the partnership community and also to expand awareness of the partnership and what we’re working on to new interested parties
+   </td>
+   <td>Want to make a big splash about the partnerships first funded projects and attract new people to the community 
+   </td>
+   <td>Views on the news story, new interest/engagement in the partnership e.g through Slack
+   </td>
+   <td>Published on Turing website- August 2022
+   </td>
   </tr>
 </table>
 
