@@ -152,11 +152,11 @@ https://join.slack.com/t/turingroche/shared_invite/zt-y5bnwynr-bN8gBb5g9c_dFHrnM
    </td>
    <td>Data and Analytics - Early stage product development
   <tr>
-   <td>Gunther Jansen
+   <td>Marius Rene Garmhausen
    </td>
    <td>Roche
    </td>
-   <td>Data Analytics and Imaging
+   <td>Personalised Healthcare
    <tr>
    <td>Markus Bundschus
    </td>
