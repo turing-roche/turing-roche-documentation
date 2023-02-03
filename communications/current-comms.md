@@ -50,7 +50,7 @@ This document covers external communications. Internal communications i.e meetin
    </td>
    <td>Community Manager creates newsletter. Draft goes to partnership operational team for any comments before sending. Content gathered via <a href="https://github.com/alan-turing-institute/turing-roche-partnership/issues">issues</a> in Github repository- Roche and wider community invited to add anything they’d like featured
    </td>
-   <td>Currently a good mix of subscribers from Turing, Roche,Turing Partner universities and beyond
+   <td>Currently a good mix of subscribers from Turing, Roche, Turing Partner universities and beyond
    </td>
    <td>Keeps subscribers informed, engaged and increases awareness of partnership opportunities
    </td>
@@ -62,21 +62,21 @@ Scope of newsletter may need to be tweaked as partnership progresses
    </td>
   </tr>
   <tr>
-   <td><a href="https://join.slack.com/t/turingroche/shared_invite/zt-y5bnwynr-bN8gBb5g9c_dFHrnMggkjw">Slack</a>
+   <td><a href="https://forms.gle/iEuDrC9Nb4w63YtWA">Slack</a>
    </td>
-   <td>Was used as a collaboration tool during Structured Missingness (SM) workshops. Currently used for partnership announcements
+   <td>Was used as a collaboration tool during Structured Missingness (SM) workshops. Currently used for partnership announcements and relevant opportunities
    </td>
-   <td>Ad hoc- announcements as needed
+   <td>Ad hoc as community manager and community post resources/engage
    </td>
    <td>Community Manager to plan regular content to stimulate discussion in Slack. Any other partnership team members to help start/maintain discussions
    </td>
-   <td>Currently SM workshop attendees, some expert panel members, some Roche and some Turing members 
+   <td>Around 500 members- mix of Turing, Roche and wider scientific community
    </td>
    <td>Allows synchronous as well as asynchronous conversation among the community members and can help to give ‘community’ feel. Allows different channels for specific topics, as well as quick communication for partnership operational team members
    </td>
-   <td>Need to decide how to ‘revitalise’ the Slack- fairly quiet at the moment. Do we want separate channels for the funded projects- way to keep them connected to each other? Picture the general channel as somewhere where anyone in the community can start discussions or ask questions in research areas relevant to our partnership so probably want to grow the Slack to get more members that are interested in research areas our partnership is pursuing
+   <td>Still quite quiet- have experimented with some strategies for engagement but more can probably be done. Likely a result of the space being a real mix of people who don't know each other so daunting to engage 
    </td>
-   <td>Difficult to get Slack stats on the free version but can monitor how many people join the slack, organic discussions etc.
+   <td>Slack has now moved to Turing Enterprise Grid so can monitor some engagement through stats on dashboard
    </td>
   </tr>
   <tr>
@@ -84,7 +84,7 @@ Scope of newsletter may need to be tweaked as partnership progresses
    </td>
    <td>Ideas developed collaboratively in partnership research area
    </td>
-   <td>When needed for partnership activities, probably around once a year
+   <td>When needed for partnership activities/funding calls, probably around once a year
    </td>
    <td>All members of partnership team to input
    </td>
@@ -116,7 +116,7 @@ Scope of newsletter may need to be tweaked as partnership progresses
    </td>
   </tr>
   <tr>
-   <td><a href="https://www.turing.ac.uk/events/turing-roche-knowledge-share-series">Turing-Roche Seminar Series</a>
+   <td><a href="https://www.turing.ac.uk/events/turing-roche-knowledge-share-series">Turing-Roche Knowledge Share Series</a>
    </td>
    <td>Partnership updates and research, knowledge sharing and different academic and industry perspectives to help build new connections and collaborations
    </td>
@@ -128,9 +128,27 @@ Scope of newsletter may need to be tweaked as partnership progresses
    </td>
    <td>Further promotes the partnership and its research activities. Helps to build a wider community and ideas- without people ‘actively’ working on the partnership
    </td>
-   <td>Running a ‘first season’ April to July- then will assess how they went/format, what we could do better, what areas we should cover. For autumn 2022 experimenting with new elements such as polls, networking etc.
+   <td>First year was successful- feel like we honed the format so will stick with this. Could experiment with networking again but not much uptake last time. Will likely do more partnership updates as themes this year
    </td>
    <td>Number of people attending, views on recording, new engagement in the partnership 
+   </td>
+  </tr>
+    <tr>
+   <td><a href="https://www.youtube.com/channel/UCtDFLOFg1QBVfPUl5Ei9-Mg">Video content</a>
+   </td>
+   <td>Video content related to the partnership
+   </td>
+   <td>Knowledge Share recordings go up once a month, other video content ad hoc
+   </td>
+   <td>Community Manager
+   </td>
+   <td>Partnership community, people interested in finding out more about the partnership, people in relevant research areas to the partnership
+   </td>
+   <td>Further promotes the partnership and its research activities- more 'well rounded' to have content that isn't just publications
+   </td>
+   <td>Have started two different video series- demystifying and perspectives (versus)- need to grow the content of each of these series and decide if we want to experiment with any other formats
+   </td>
+   <td>Views on videos, feedback, people wanting to be part of the series
    </td>
   </tr>
 </table>
@@ -156,37 +174,8 @@ Scope of newsletter may need to be tweaked as partnership progresses
    <td><em>When</em>
    </td>
   </tr>
-  <tr>
-   <td>Structured Missingness ‘Grand Challenges’ publication
-   </td>
-   <td>Outlining the number of different areas where Structured Missingness present important challenges that need to be addressed
-   </td>
-   <td>SM Research Lead, partnership leads, community to help co-create. Community Manager to coordinate as needed. 
-   </td>
-   <td>Journal audience and wider researchers
-   </td>
-   <td>Establish the partnership ‘voice’ in this research area and have some academic impact
-   </td>
-   <td>Paper views, citations, tweets and new engagement in partnership 
-   </td>
-   <td>Sometime 2022?
-   </td>
   </tr>
   <tr>
-   <td>SM Grand Challenges paper associated comms
-   </td>
-   <td>Blog/News story about paper 
-   </td>
-   <td>Community Manager to coordinate- involve comms, James Lloyd (science writer at Turing) for blog
-   </td>
-   <td>Wider research community
-   </td>
-   <td>To help promote the publication and put it in context to a wider audience
-   </td>
-   <td>Views, social media, new engagement in partnership
-   </td>
-   <td>Prepare when paper has been accepted for publication 
-   </td>
   </tr>
   <tr>
 
@@ -242,7 +231,7 @@ Scope of newsletter may need to be tweaked as partnership progresses
    </td>
    <td>As needed, when relevant conferences come up
    </td>
-   <td>Partnership research leads and operational team as needed
+   <td>Partnership research leads, operational team as needed and also ambassadors when programme established
    </td>
    <td>Conference audience
    </td>
@@ -289,7 +278,7 @@ Scope of newsletter may need to be tweaked as partnership progresses
    </td>
    <td>N/A
    </td>
-   <td>Mid/late February
+   <td>Mid/late February 2022
    </td>
   </tr>
   <tr>
@@ -337,6 +326,52 @@ Scope of newsletter may need to be tweaked as partnership progresses
    <td>Views on the news story, new interest/engagement in the partnership e.g through Slack
    </td>
    <td>Published on Turing website- August 2022
+   </td>
+    <tr>
+   <td>Structured Missingness ‘Grand Challenges’ publication
+   </td>
+   <td>Outlining the number of different areas where Structured Missingness present important challenges that need to be addressed
+   </td>
+   <td>SM Research Lead, partnership leads, community to help co-create. Community Manager to coordinate as needed. 
+   </td>
+   <td>Journal audience and wider researchers
+   </td>
+   <td>Establish the partnership ‘voice’ in this research area and have some academic impact
+   </td>
+   <td>Paper views, citations, tweets and new engagement in partnership 
+   </td>
+   <td>Published in Nature Machine Intelligence January 2023
+   </td>
+    <tr>
+       <tr>
+   <td>Annoucement of Rohan joining as Senior PDRA
+   </td>
+   <td>Welcoming Rohan, explaining what he will be working on in the partnership
+   </td>
+   <td>Community Manager
+   </td>
+   <td>People interested in the partnership, how team is growing etc
+   </td>
+   <td>Update people on partnership team growing and get people connecting with Rohan
+   </td>
+   <td>Views on annoucement, people connecting with Rohan
+   </td>
+   <td>Published on Turing July 2022
+   </td>
+    <tr>
+   <td>SM Grand Challenges paper associated comms
+   </td>
+   <td>Blog/News story about paper 
+   </td>
+   <td>Community Manager coordinated 
+   </td>
+   <td>Wider research community
+   </td>
+   <td>To help promote the publication and put it in context to a wider audience
+   </td>
+   <td>Views, social media, new engagement in partnership
+   </td>
+   <td>Social Media by both Turing and Roche Slack promotion and annoucements on both sides 
    </td>
   </tr>
 </table>
