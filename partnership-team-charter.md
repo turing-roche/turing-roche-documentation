@@ -40,13 +40,7 @@ To develop methodology to enable the generation of insights to better understand
    <td><strong>Key Operational Stakeholders</strong>
    </td>
    <td><strong>Scientific</strong>
-<p>
 <strong>Direction</strong>
-   </td>
-   <td><strong>Scientific</strong>
-<p>
-<strong>Research Lead (L)/Research Associate (RA)</strong>
-   </td>
    <td><strong>Other/ Supporting role</strong>
    </td>
   </tr>
@@ -103,13 +97,13 @@ To develop methodology to enable the generation of insights to better understand
    </td>
    <td><strong>x</strong>
    </td>
-   <td><strong>x</strong>
+    <td><strong>x</strong>
    </td>
    <td>
    </td>
    <td>
    </td>
-   </td>
+   <td><strong>x</strong>  
    <td>
    </td>
    <td>
@@ -118,7 +112,7 @@ To develop methodology to enable the generation of insights to better understand
    </td>
    </tr>
   <tr>
-   <td><strong>Sarah McGough (SM) (covering for CH-R May-August 2022)</strong>
+   <td><strong>Sarah McGough (SM)</strong>
    </td>
    <td><strong>Roche</strong>
    </td>
@@ -162,7 +156,7 @@ To develop methodology to enable the generation of insights to better understand
    </td>
   </tr>
   <tr>
-   <td><strong>Nadia Haque (NH)</strong>
+   <td><strong>Jay Dougherty (JD)</strong>
    </td>
    <td><strong>Roche</strong>
    </td>
@@ -191,19 +185,8 @@ To develop methodology to enable the generation of insights to better understand
    <td>Partnerships Development Lead and Alliance Director
    </td>
    <td><strong>x</strong>
-   </td>
+     </td>
    <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
    </td>
    <td>
    </td>
@@ -222,10 +205,10 @@ To develop methodology to enable the generation of insights to better understand
    <td><strong>Turing </strong>
    </td>
    <td>Research Project Manager in Health & Medical Sciences Programme
-   </td>
+  </td>
    <td>
    </td>
-   <td>
+   <td><strong>x</strong>
    </td>
    <td><strong>x</strong>
    </td>
@@ -247,13 +230,12 @@ To develop methodology to enable the generation of insights to better understand
    </td>
    <td>
    </td>
-   <td>
+   <td><strong>x</strong>
    </td>
    <td><strong>x</strong>
    </td>
    <td>
    </td>
-   <td><strong>x</strong>
    </td>
    <td>
    </td>
@@ -326,12 +308,57 @@ To develop methodology to enable the generation of insights to better understand
    <td>
    </td>
   </tr>
+    <tr>
+   <td><strong>Maya Bronfeld (MB)</strong>
+   </td>
+   <td><strong>Turing</strong>
+   </td>
+   <td>Programme Manager, Health & Medical Sciences
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td><strong>x</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
   <tr>
-   <td><strong>Kirstie Whitaker (on maternity leave till Jan 2023) (KW)</strong>
+   <td><strong>Kirstie Whitaker (KW)</strong>
    </td>
    <td><strong>Turing</strong>
    </td>
    <td>Programme Director for Tools, Practices and Systems
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td><strong>x</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+    <tr>
+   <td><strong>Emma Karoune (EK)</strong>
+   </td>
+   <td><strong>Turing</strong>
+   </td>
+   <td>Senior Community Manager, Health and Medical Sciences
    </td>
    <td>
    </td>
@@ -371,31 +398,9 @@ To develop methodology to enable the generation of insights to better understand
    </td>
   </tr>
   <tr>
-   <td><strong>Expert Panel</strong>
+   <td><strong>Partnership Advisors</strong>
    </td>
-   <td colspan="2" ><strong>See link to <a href="https://github.com/alan-turing-institute/turing-roche-partnership/blob/main/expert%20panel/expert-panel-team-charter.md">EP Team Charter</a> for details.</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td><strong>x</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Robin Mitra (RM)</strong>
-   </td>
-   <td><strong>Cardiff</strong>
-   </td>
-   <td>Senior Lecturer
+   <td colspan="2" ><strong>See link to <a href="https://github.com/alan-turing-institute/turing-roche-partnership/blob/main/expert%20panel/expert-panel-team-charter.md">Partnership Advisors Team Charter</a> for details.</strong>
    </td>
    <td>
    </td>
@@ -407,7 +412,7 @@ To develop methodology to enable the generation of insights to better understand
    </td>
    <td><strong>x</strong>
    </td>
-   <td><strong>L</strong>
+   <td>
    </td>
    <td>
    </td>
@@ -435,43 +440,21 @@ To develop methodology to enable the generation of insights to better understand
    </td>
   </tr>
   <tr>
-   <td><strong>Snr RA</strong>
+   <td><strong>Rohan Chakraborty (RC)</strong>
+   </td>
+   <td><strong>Turing</strong>
+   </td>
+   <td> Senior PDRA, Partnership
+   </td>
+   <td>
+   </td>
+   <td><strong>x</strong>
    </td>
    <td>
    </td>
    <td>
    </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td><strong>Snr RA</strong>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
+    <td><strong>x</strong>
    </td>
    <td>
    </td>
@@ -479,7 +462,30 @@ To develop methodology to enable the generation of insights to better understand
    </td>
   </tr>
   <tr>
-   <td><strong>Comms Team</strong>
+   <td><strong>Chris Banerji (CB)</strong>
+   </td>
+   <td><strong>Turing</strong>
+   </td>
+   <td> Senior PDRA, Partnership
+   </td>
+   <td>
+   </td>
+   <td><strong>x</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+    <td><strong>x</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+  <tr>
+   <td><strong>Will Cunliffe and Sian Fortt</strong>
    </td>
    <td><strong>Turing</strong>
    </td>
@@ -494,10 +500,7 @@ To develop methodology to enable the generation of insights to better understand
    <td>
    </td>
    <td>
-   </td>
-   <td>
-   </td>
-   <td><strong>Comms</strong>
+   <td><strong>Social Media and Marketing</strong>
    </td>
   </tr>
   <tr>
@@ -516,14 +519,11 @@ To develop methodology to enable the generation of insights to better understand
    <td>
    </td>
    <td>
-   </td>
-   <td>
-   </td>
    <td><strong>Press</strong>
    </td>
   </tr>
   <tr>
-   <td><strong>Anneka York</strong>
+   <td><strong>Natasha Lyon</strong>
    </td>
    <td><strong>Turing</strong>
    </td>
@@ -538,9 +538,6 @@ To develop methodology to enable the generation of insights to better understand
    <td>
    </td>
    <td>
-   </td>
-   <td>
-   </td>
    <td><strong>Events</strong>
    </td>
   </tr>
@@ -561,23 +558,80 @@ To develop methodology to enable the generation of insights to better understand
    </td>
    <td>
    </td>
-   <td>
-   </td>
    <td><strong>Branding</strong>
    </td>
   </tr>
+    <tr>
+   <td><strong>Amisha Sathi</strong>
+   </td>
+   <td><strong>Roche</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   <td><strong>Events promotion on Roche side- RAAN</strong>
+   </td>
+  </tr>
+    <tr>
+   <td><strong>Anne Conesa</strong>
+   </td>
+   <td><strong>Roche</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   <td><strong>Comms for PD</strong>
+   </td>
+  </tr>
+  <tr>
+    <tr>
+   <td><strong>Simon Goldsborough, Lars Cleary</strong>
+   </td>
+   <td><strong>Roche</strong>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   <td><strong>Comms for partnering, approval</strong>
+   </td>
+  </tr>
+  <tr>
 </table>
 
 
 **Extended Members:**
 
-**Martin O’ Reilly**- Turing Institute, Director of Research Engineering.
+**May Yong**- Turing Institute, Senior Research Software Engineer
 
-Role within the partnership: Involved in one of the partnership projects- coordinated evaluating Roche’s Data Safe Haven.
+Role within the partnership: Contact for Turing Research Engineering Team
 
-**Rebecca Pope** - Roche, UK Digital & Data Science Innovation Lead
+**Chris Harbron additional role (previously Rebecca Pope)** 
 
-Role within the partnership: Turing Strategic Partnership Board Attendee - maximise impact by positioning Roche to leverage and input to the UK’s national strategy for AI and data science. “Nested” within The Alan Turing Institute’s overall governance, this Board is chaired by Professor Sir Adrian Smith and members of the Board have regular dialogue with Turing’s Board of Trustees, Scientific Advisory Board and Commercial Advisory Board. 
+Turing Strategic Partnership Board Attendee - maximise impact by positioning Roche to leverage and input to the UK’s national strategy for AI and data science. “Nested” within The Alan Turing Institute’s overall governance, this Board is chaired by Professor Sir Adrian Smith and members of the Board have regular dialogue with Turing’s Board of Trustees, Scientific Advisory Board and Commercial Advisory Board. 
 
 Turing host a strategic partnership board meeting for all SPs (see [here)](https://www.turing.ac.uk/collaborate-turing/current-partnerships-and-collaborations). The SPB is referenced on the Turing website - see[ https://www.turing.ac.uk/about-us/governance](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.turing.ac.uk%2Fabout-us%2Fgovernance&data=04%7C01%7Chmeacher%40turing.ac.uk%7C6667cdbb49154685ee1708d90fa167d5%7C4395f4a7e4554f958a9f1fbaef6384f9%7C0%7C0%7C637558008162393292%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=uJv%2ByeDEkNBQl6AwkriWIW0aSrTIFK%2FP7NyRcNiYHyY%3D&reserved=0) (under Strategic Partners).
 
@@ -629,11 +683,11 @@ Turing host a strategic partnership board meeting for all SPs (see [here)](https
 <p>
 More on remit <a href="https://docs.google.com/presentation/d/17Hfd4WKbtrfxlw0BDssbnfWCBZ4vTeb9jQhpeACk4U8/edit?usp=sharing">here</a>
    </td>
-   <td><em>CH(R)<strong>, </strong></em>CH(T), RC, BM, KP, NH
+   <td><em>CH(T)<strong>, </strong></em>CH(R), RC, BM, SM, KP, JD, MOG, VH
    </td>
-   <td>MOG (Minute taker while CH(R) is chair), AS
+   <td>AS (Minute taker while CH(T) is chair), AS
    </td>
-   <td>KW, CL, AM, MS, MOG, VH
+   <td>RC, CB
    </td>
    <td>Every 6 months, in June and December 
    </td>
@@ -649,11 +703,11 @@ Turing store a copy in Sharepoint, Roche store a copy in Felix
 <p>
 More on remit <a href="https://docs.google.com/presentation/d/17Hfd4WKbtrfxlw0BDssbnfWCBZ4vTeb9jQhpeACk4U8/edit?usp=sharing">here</a>
    </td>
-   <td><em>CH(R)</em>,<strong> </strong>CH(T), RC, BM, KP, NH, AS, VH, MOG
+   <td><em>CH(T)</em>,<strong> </strong>CH(R), RC, BM, KP, SM, MB, JD, AS, VH, MOG, RC, CB
    </td>
    <td>
    </td>
-   <td>KW, CL, AM, MS
+   <td>
    </td>
    <td>Occurs the last Thursday of every month from 17:00 to 18:00
    </td>
@@ -677,17 +731,17 @@ More on remit <a href="https://docs.google.com/presentation/d/17Hfd4WKbtrfxlw0BD
    </td>
   </tr>
   <tr>
-   <td>Expert Panel
+   <td>Partnership Advisors
    </td>
    <td>To share and discuss ideas, advanced analytics challenges and potential projects and solutions between the Turing and Roche, as well as identifying potential projects / areas of interest to be taken to the Joint Steering Committee (JSC)
    </td>
-   <td><em>VH</em>, CH(R), BM<strong>, </strong>CH(T), RC,<strong> </strong>, AS, AF, FM, MB, HH, ZK, AK, GJ, DR, AK
+   <td><em>VH</em>, CH(R), BM<strong>, </strong>CH(T), RC,<strong> </strong>, SM, AS, AF, FM, MB, HH, ZK, DR, AK, MG, MB, AK, RC, CB
    </td>
    <td>
    </td>
    <td>
    </td>
-   <td>3-4 times a year and ad hoc as needed
+   <td>Occured 4 times in 2022, now meeting disbanded and engage on ad hoc basis
    </td>
    <td>Brief overview of meeting stored in <a href="https://drive.google.com/drive/folders/1miJcqCy1vRIGJSc8DkFTLDJ_JAQ7_M11">Google Drive</a>
    </td>
@@ -709,17 +763,17 @@ More on remit <a href="https://docs.google.com/presentation/d/17Hfd4WKbtrfxlw0BD
    </td>
   </tr>
   <tr>
-   <td>Research Areas
+   <td>All hands 'lab' meeting
    </td>
-   <td>[meeting to be established] General catchup and direction of research area project(s)
+   <td>[meeting to be established] Partnership team and all researchers in one room to present updates and facilitate connections
    </td>
-   <td>CH(R), BM, VH, AS?
-   </td>
-   <td>VH
+   <td>All partnership team, funded project members, enrichment students
    </td>
    <td>
    </td>
-   <td>Monthly, 30 min meeting with each individual project
+   <td>
+   </td>
+   <td>Quarterly, whole morning
    </td>
    <td>
    </td>
@@ -746,13 +800,13 @@ More on remit <a href="https://docs.google.com/presentation/d/17Hfd4WKbtrfxlw0BD
    </td>
    <td>Day to day decision making and planning
    </td>
-   <td><em>AS/em>, CH(R), BM AS, VH, MOG
+   <td><em>AS</em>, CH(R), BM, VH, MOG, SM, RC, CB, MB
    </td>
    <td>
    </td>
-   <td>KW, CL, AM, MS, KP
+   <td>EK, AM
    </td>
-   <td>Fortnightly on Tuesdays 2-3pm
+   <td>Fortnightly on Mondays 4-5pm
    </td>
    <td><a href="https://docs.google.com/spreadsheets/d/1J90VcO5QnBlGeBG4idv-zGePNN2UkYUkYlrWCP_H9DE/edit#gid=0">Google drive </a>
    </td>
@@ -768,7 +822,7 @@ More on remit <a href="https://docs.google.com/presentation/d/17Hfd4WKbtrfxlw0BD
    </td>
    <td>
    </td>
-   <td>Weekly Tuesdays 11.30am-12.30
+   <td>Fortnightly Mondays 10am-11am
    </td>
    <td>No notes
    </td>
@@ -778,7 +832,7 @@ More on remit <a href="https://docs.google.com/presentation/d/17Hfd4WKbtrfxlw0BD
    </td>
    <td>Ensure internal management of scientific / operational opportunities and risk
    </td>
-   <td><em>AS/em>, BM, KP, CH(T), VH, KW, MS, AM, CL
+   <td><em>AS/em>, BM, KP, CH(T), VH, EK
    </td>
    <td>
    </td>
