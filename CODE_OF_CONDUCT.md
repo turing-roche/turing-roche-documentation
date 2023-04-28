@@ -28,7 +28,7 @@ In addition to this code of conduct, all attendees to our events are also expect
 ### Contact information
 If you would like to report an incident or have any concerns at any time you may contact the Vicky Hellon, Community Manager for the partnership at vhellon@turing.ac.uk or Project Manager for the partnership Michelle O’Gorman at michelle.ogorman@roche.com. 
 
-Alternatively, if you would like to contact someone outside of the core partnership team, please contact Achintya Rao by email at arao@turing.ac.uk
+Alternatively, if you would like to contact someone outside of the core partnership team, please contact Alden Conner by email at aconner@turing.ac.uk
 
 # Turing-Roche Slack Workspace Policy
 The Turing-Roche Partnership uses Slack for collaborative conversations across the Turing and Roche networks and beyond. 
