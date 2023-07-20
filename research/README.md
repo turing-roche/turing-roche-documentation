@@ -38,9 +38,17 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 ## Publications
 
 ### Partnership Publications
+| Publication Date | Title | Publication Venue | Partnership Authors | Link |
+|:-----|:--------|:-----------|:----------|:----------|
+| 25 January 2023 | Learning from data with structured missingness | Nature Machine Intelligence | Whole Partnership Team | [Journal link](https://www.nature.com/articles/s42256-022-00596-z), [Preprint link](https://arxiv.org/abs/2304.01429)
 
 
 ### Publications that acknowledge the partnership 
+| Publication Date | Title | Publication Venue | Partnership Authors | Link |
+|:-----|:--------|:-----------|:----------|:----------|
+| 09 September 2022 | Missing Data as Data | Cell Press Patterns | Ana Basiri | [Here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9481944/)
+| 15 May 2023 | An in silico FSHD muscle fiber for modeling DUX4 dynamics and predicting the impact of therapy | eLife | Chris Banerji | [Here](https://elifesciences.org/articles/88345) 
+| 23 June 2023 | Deep-Fuzz: A synergistic integration of deep learning and fuzzy water flows for fine-grained nuclei segmentation in digital pathology | PLOS One | Rohan Chakraborty | [Here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286862)
 
 
 
