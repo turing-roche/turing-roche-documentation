@@ -41,13 +41,18 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 | Publication Date | Title | Publication Venue | Partnership Authors | Link |
 |:-----|:--------|:-----------|:----------|:----------|
 | 25 January 2023 | Learning from data with structured missingness | Nature Machine Intelligence | Whole Partnership Team | [Journal link](https://www.nature.com/articles/s42256-022-00596-z), [Preprint link](https://arxiv.org/abs/2304.01429)
+| 05 May 2023 | Zoo Guide to Network Embedding | arXiv | Anthony Baptista, Ruben Sanchez-Garcia and Ginestra Bianconi | [Preprint link](https://arxiv.org/abs/2305.03474) |
 
 
 ### Publications that acknowledge the partnership 
 | Publication Date | Title | Publication Venue | Partnership Authors | Link |
 |:-----|:--------|:-----------|:----------|:----------|
 | 09 September 2022 | Missing Data as Data | Cell Press Patterns | Ana Basiri | [Here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9481944/)
+| 07 March 2023 | Higher-order signal processing with the Dirac operator | IEEE | Ginestra Bianconi | [Here](https://ieeexplore.ieee.org/abstract/document/10052062)
+| 10 March 2023 | The dynamic nature of percolation on networks with triadic interactions | Nature Communications | Ginestra Bianconi | [Here](https://www.nature.com/articles/s41467-023-37019-5)
+| 11 May 2023 | Neuroscience needs Network Science | arXiv | Ginestra Bianconi | [Preprint link](https://arxiv.org/abs/2305.06160)
 | 15 May 2023 | An in silico FSHD muscle fiber for modeling DUX4 dynamics and predicting the impact of therapy | eLife | Chris Banerji | [Here](https://elifesciences.org/articles/88345) 
+| 24 May 2023 | Symptom onset and cellular pathology in facioscapulohumeral muscular dystrophy is accelerated by cigarette smoking | medRXiv | Chris Banerji | [Here](https://www.medrxiv.org/content/10.1101/2023.05.17.23290091v1)
 | 23 June 2023 | Deep-Fuzz: A synergistic integration of deep learning and fuzzy water flows for fine-grained nuclei segmentation in digital pathology | PLOS One | Rohan Chakraborty | [Here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286862)
 
 
