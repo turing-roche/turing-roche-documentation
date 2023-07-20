@@ -74,4 +74,3 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 | 27th April 2023 | Industry Panel for AIM RSF Conference | Yajing Zhu | None
 | 28 April 2023 | AI for Personalised Healthcare: The Turing-Roche Partnership at Crick AI Club | Vicky Hellon | None
 | 14 June 2023 | PSI Conference talks: Chris- 'Machine Learning and Artificial Intelligence in Clinical Statistics. An opportunity or an over-hyped distraction?' and Robin 'Addressing Structured Missingness in large complex health databases' | Chris Harbron and Robin Mitra | None
-| 20 July 2023 | Intro to AI and Machine Learning for Clinicians at Turing Clinical AI Interest Group Summer School | Rohan Chakraborty | None
