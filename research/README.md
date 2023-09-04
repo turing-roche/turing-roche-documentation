@@ -54,6 +54,8 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 | 15 May 2023 | An in silico FSHD muscle fiber for modeling DUX4 dynamics and predicting the impact of therapy | eLife | Chris Banerji | [Here](https://elifesciences.org/articles/88345) 
 | 24 May 2023 | Symptom onset and cellular pathology in facioscapulohumeral muscular dystrophy is accelerated by cigarette smoking | medRXiv | Chris Banerji | [Here](https://www.medrxiv.org/content/10.1101/2023.05.17.23290091v1)
 | 23 June 2023 | Deep-Fuzz: A synergistic integration of deep learning and fuzzy water flows for fine-grained nuclei segmentation in digital pathology | PLOS One | Rohan Chakraborty | [Here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286862)
+| 01 August 2023 | LSIP: Locality Sensitive Intensity Projection for 2D Mapping of High-Res 3D Images of Dendritic Spines | International Conference on Frontiers in Computing and Systems (COMSYS 2022 oral paper) | Rohan Chakraborty | [Here](https://link.springer.com/chapter/10.1007/978-981-99-2680-0_44)
+| 01 August 2023 | Deep Visualisation-Based Interpretable Analysis of Digital Pathology Images for Colorectal Cancer | International Conference on Frontiers in Computing and Systems (COMSYS 2022 oral paper) | Rohan Chakraborty | [Here](https://link.springer.com/chapter/10.1007/978-981-99-2680-0_49)
 | 16 August 2023 | The FSHD muscle-blood biomarker: a circulating transcriptomic biomarker for clinical severity in facioscapulohumeral muscular dystrophy | Brain Communications | Chris Banerji | [Here](https://academic.oup.com/braincomms/advance-article/doi/10.1093/braincomms/fcad221/7242939) |
 
 
