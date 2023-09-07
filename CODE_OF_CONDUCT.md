@@ -45,8 +45,6 @@ Whilst you are using Slack, you must be aware that it is a US-owned company and 
 It is a closed community social media channel but, while it has a robust security policy, like most cloud services, the Turing-Roche partnership would not be able to claim compensation for any security breaches, and it may close down taking all its messages with it.
 It may also be bought by another company who will have access to its data. The full terms of service for Slack can be found on their website: https://slack.com/intl/en-gb/terms-of-service.
 
-The Turing-Roche Partnership Slack Workspace currently operates on a free account so there is no accessible archive of the messages, therefore we recommend you don’t leave anything on Slack that you may wish to capture later.
-
 # Acknowledgements
 This Code of Conduct was adapted from the [Turing Way Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md) 
 which was in turn adapted from the Carpentries Code of Conduct, the Alan Turing Institute Data Study Group Code of Conduct and Citizen Lab (more info [here](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md#5-acknowledgements)).
