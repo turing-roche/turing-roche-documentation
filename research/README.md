@@ -42,6 +42,7 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 |:-----|:--------|:-----------|:----------|:----------|
 | 25 January 2023 | Learning from data with structured missingness | Nature Machine Intelligence | Whole Partnership Team | [Journal link](https://www.nature.com/articles/s42256-022-00596-z), [Preprint link](https://arxiv.org/abs/2304.01429)
 | 05 May 2023 | Zoo Guide to Network Embedding | arXiv | Anthony Baptista, Ruben Sanchez-Garcia and Ginestra Bianconi | [Preprint link](https://arxiv.org/abs/2305.03474) |
+| 05 July 2023 | A Complete Characterisation of Structured Missingness | arXiv | James Jackson, Robin Mitra, Niels Hagenbuch, Sarah McGough, Chris Harbron | [Preprint link](https://arxiv.org/abs/2307.02650) |
 
 
 ### Publications that acknowledge the partnership 
