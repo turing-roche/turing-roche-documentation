@@ -7,7 +7,7 @@ The Turing-Roche partnership sponsors Community Scholars to attend one conferenc
 
 | Conference name| Date | Location | Scholar attending |
 |:-----|:--------|:-----------|:-----------|
-|  |  | | 
+| (TBC) Organization for Human Brain Mapping | June 23 - 27, 2024 | Seoul, Korea |  Zeena Shawa
 
 
 ## Past Conferences
