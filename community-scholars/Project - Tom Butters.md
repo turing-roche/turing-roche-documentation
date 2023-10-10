@@ -14,7 +14,7 @@ My proposed Community Scholar project is to run a short series of workshops in c
 
 #### Quarter 1 (September, October, November)
 - [ ] Meet with Dr Banerji to discuss arranging 
-- [ ] Attend Clinical AI
+- [ ] Attend Turing-Roche Clinical AI workshop
 - [ ] Discuss Curriculum mapping project
 
 #### Quarter 2 (December, January, February)
