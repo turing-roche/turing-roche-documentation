@@ -43,6 +43,8 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 | 25 January 2023 | Learning from data with structured missingness | Nature Machine Intelligence | Whole Partnership Team | [Journal link](https://www.nature.com/articles/s42256-022-00596-z), [Preprint link](https://arxiv.org/abs/2304.01429)
 | 05 May 2023 | Zoo Guide to Network Embedding | arXiv | Anthony Baptista, Ruben Sanchez-Garcia and Ginestra Bianconi | [Preprint link](https://arxiv.org/abs/2305.03474) |
 | 05 July 2023 | A Complete Characterisation of Structured Missingness | arXiv | James Jackson, Robin Mitra, Niels Hagenbuch, Sarah McGough, Chris Harbron | [Preprint link](https://arxiv.org/abs/2307.02650) |
+| 05 July 2023 | A Complete Characterisation of Structured Missingness | arXiv | James Jackson, Robin Mitra, Niels Hagenbuch, Sarah McGough, Chris Harbron | [Preprint link](https://arxiv.org/abs/2307.02650) |
+| 11 October 2023 | Clinical AI tools must convey predictive uncertainty for each individual patient | Nature Medicine | Chris Banerji, Rohan Chakraborty, Chris Harbron, Ben MacArthur | [Journal open link](https://www.nature.com/articles/s41591-023-02562-7.epdf?sharing_token=Z18LE8Sep8Zx3ZnGRDjuJ9RgN0jAjWel9jnR3ZoTv0NKP7LStjeuj1vX5Wz0Ebyya55G1cXWw7J36-hI6uXGggWzsNuVYUGkKOsSF7lPiWpsDuf53b3LEOIwGiI4fH5HcTtkmnheBzvuaovv4OGSumALJwY08gQNo0R01UKlHBk%3D)
 
 
 ### Publications that acknowledge the partnership 
