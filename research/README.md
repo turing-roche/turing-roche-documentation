@@ -33,7 +33,7 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 * PDRA: Alessandro Barp (Turing Institute) 
 
 #### Conformal Prediction
-* PDRA: TBC
+* PDRA: Ariane Marandon (Turing Institute
 
 ## Publications
 
@@ -59,6 +59,7 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 | 01 August 2023 | LSIP: Locality Sensitive Intensity Projection for 2D Mapping of High-Res 3D Images of Dendritic Spines | International Conference on Frontiers in Computing and Systems (COMSYS 2022 oral paper) | Rohan Chakraborty | [Here](https://link.springer.com/chapter/10.1007/978-981-99-2680-0_44)
 | 01 August 2023 | Deep Visualisation-Based Interpretable Analysis of Digital Pathology Images for Colorectal Cancer | International Conference on Frontiers in Computing and Systems (COMSYS 2022 oral paper) | Rohan Chakraborty | [Here](https://link.springer.com/chapter/10.1007/978-981-99-2680-0_49)
 | 16 August 2023 | The FSHD muscle-blood biomarker: a circulating transcriptomic biomarker for clinical severity in facioscapulohumeral muscular dystrophy | Brain Communications | Chris Banerji | [Here](https://academic.oup.com/braincomms/advance-article/doi/10.1093/braincomms/fcad221/7242939) |
+| 19 October 2023 | FSHD muscle shows perturbation in fibroadipogenic progenitor cells, mitochondrial function and alternative splicing independently of inflammation  | Human Molecular Genetics | Chris Banerji | [Here](https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddad175/7323600) |
 
 
 ### Blogs
