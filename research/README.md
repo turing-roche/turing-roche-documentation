@@ -33,7 +33,7 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 * PDRA: Alessandro Barp (Turing Institute) 
 
 #### Conformal Prediction
-* PDRA: Ariane Marandon (Turing Institute
+* PDRA: Ariane Marandon (Turing Institute)
 
 ## Publications
 
@@ -45,14 +45,17 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 | 05 July 2023 | A Complete Characterisation of Structured Missingness | arXiv | James Jackson, Robin Mitra, Niels Hagenbuch, Sarah McGough, Chris Harbron | [Preprint link](https://arxiv.org/abs/2307.02650) |
 | 11 October 2023 | Clinical AI tools must convey predictive uncertainty for each individual patient | Nature Medicine | Chris Banerji, Rohan Chakraborty, Chris Harbron, Ben MacArthur | [Journal open link](https://www.nature.com/articles/s41591-023-02562-7.epdf?sharing_token=Z18LE8Sep8Zx3ZnGRDjuJ9RgN0jAjWel9jnR3ZoTv0NKP7LStjeuj1vX5Wz0Ebyya55G1cXWw7J36-hI6uXGggWzsNuVYUGkKOsSF7lPiWpsDuf53b3LEOIwGiI4fH5HcTtkmnheBzvuaovv4OGSumALJwY08gQNo0R01UKlHBk%3D)
 
-
-### Publications that acknowledge the partnership 
+### Associated publications from partnership members under the Structured Missingness Theme
 | Publication Date | Title | Publication Venue | Partnership Authors | Link |
 |:-----|:--------|:-----------|:----------|:----------|
 | 09 September 2022 | Missing Data as Data | Cell Press Patterns | Ana Basiri | [Here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9481944/)
 | 07 March 2023 | Higher-order signal processing with the Dirac operator | IEEE | Ginestra Bianconi | [Here](https://ieeexplore.ieee.org/abstract/document/10052062)
 | 10 March 2023 | The dynamic nature of percolation on networks with triadic interactions | Nature Communications | Ginestra Bianconi | [Here](https://www.nature.com/articles/s41467-023-37019-5)
 | 11 May 2023 | Neuroscience needs Network Science | arXiv | Ginestra Bianconi | [Preprint link](https://arxiv.org/abs/2305.06160)
+
+### Publications from the independent research of our partnership Senior Postdoctoral Research Associates
+| Publication Date | Title | Publication Venue | Partnership Authors | Link |
+|:-----|:--------|:-----------|:----------|:----------|
 | 15 May 2023 | An in silico FSHD muscle fiber for modeling DUX4 dynamics and predicting the impact of therapy | eLife | Chris Banerji | [Here](https://elifesciences.org/articles/88345) 
 | 24 May 2023 | Symptom onset and cellular pathology in facioscapulohumeral muscular dystrophy is accelerated by cigarette smoking | medRXiv | Chris Banerji | [Here](https://www.medrxiv.org/content/10.1101/2023.05.17.23290091v1)
 | 23 June 2023 | Deep-Fuzz: A synergistic integration of deep learning and fuzzy water flows for fine-grained nuclei segmentation in digital pathology | PLOS One | Rohan Chakraborty | [Here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0286862)
@@ -60,6 +63,7 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 | 01 August 2023 | Deep Visualisation-Based Interpretable Analysis of Digital Pathology Images for Colorectal Cancer | International Conference on Frontiers in Computing and Systems (COMSYS 2022 oral paper) | Rohan Chakraborty | [Here](https://link.springer.com/chapter/10.1007/978-981-99-2680-0_49)
 | 16 August 2023 | The FSHD muscle-blood biomarker: a circulating transcriptomic biomarker for clinical severity in facioscapulohumeral muscular dystrophy | Brain Communications | Chris Banerji | [Here](https://academic.oup.com/braincomms/advance-article/doi/10.1093/braincomms/fcad221/7242939) |
 | 19 October 2023 | FSHD muscle shows perturbation in fibroadipogenic progenitor cells, mitochondrial function and alternative splicing independently of inflammation  | Human Molecular Genetics | Chris Banerji | [Here](https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddad175/7323600) |
+| 28 October 2023 | Generative AI models should include detection mechanisms as a condition for public release | Ethics and Information Technology | Rohan Chakraborty | [Here](https://link.springer.com/article/10.1007/s10676-023-09728-4)
 
 
 ### Blogs
@@ -80,3 +84,4 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 | 28 April 2023 | AI for Personalised Healthcare: The Turing-Roche Partnership at Crick AI Club | Vicky Hellon | None
 | 14 June 2023 | PSI Conference talks: Chris- 'Machine Learning and Artificial Intelligence in Clinical Statistics. An opportunity or an over-hyped distraction?' and Robin 'Addressing Structured Missingness in large complex health databases' | Chris Harbron and Robin Mitra | None
 | June 2023 | International FSHD Conference | Chris Banerji | None
+| October 2023| Roche Symposium Welwyn- presenting a poster on cancer digital pathology | Rohan Chakraborty | None |
