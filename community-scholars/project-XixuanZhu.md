@@ -1,27 +1,27 @@
 
-# Community Scholar Project: [add project name here] 
-## [add scholar name here]
+# Community Scholar Project: A short documentary - journey of a tumour sample in clinical trials 
+## Xixuan Zhu
 
 ### Overview of planned project
-[add some text here about your project] 
+I aim to produce a short documentary film composed of narratives and interviews. The film will tell a story about the whole journey of a tumour sample (biopsy / surgical resection) collected at clinical trials, covering tissue handling, tumour characterisation, translational research, and eventually how this makes a contribution to improving personalised clinical care.
 
 ### Milestones
 
 #### Quarter 1 (September, October, November)
-- [ ] Milestone 1
-- [ ] Milestone 2
+- [*] Draft the story board
+- [ ] Draft the script
 
 #### Quarter 2 (December, January, February)
-- [ ] Milestone 1
-- [ ] Milestone 2
+- [ ] Identify locations and personnels for filming and interviews
+- [ ] Liaise with locations (staff) and interviewees 
 
 #### Quarter 3 (March, April, May)
-- [ ] Milestone 1
-- [ ] Milestone 2
+- [ ] Film clips to be used for backgroud
+- [ ] Conduct interviews
 
 #### Quarter 4 (June, July, August)
-- [ ] Milestone 1
-- [ ] Milestone 2
+- [ ] Edit the film
+- [ ] Discuss with friends from filming industry, gain feedback, and improve the film
 
 
 ### How the community can connect with the project
