@@ -8,7 +8,7 @@ I aim to produce a short documentary film composed of narratives and interviews.
 ### Milestones
 
 #### Quarter 1 (September, October, November)
-- [*] Draft the story board
+- [x] Draft the story board
 - [ ] Draft the script
 
 #### Quarter 2 (December, January, February)
