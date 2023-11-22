@@ -2,11 +2,12 @@
 ## Kuniko Paxton
 
 ### Overview of planned project
-- Purpose
+- Purpose: 
 The aim is to ensure that the concept and goals of the Alan Turing Institute and Roche partnership project are widely understood and of interest not only to experts but also to general stakeholders.
 
-- Contents
-Divide collaborators and researchers into 2 teams and compete their scores by answering questions. The answers are judged by three primary school children. Each judge has 1 point and can award 1 point to the respondent when the answer is understandable or interesting. Thus, up to three points can be awarded for each question. The minimum score for a response could be zero.
+- Contents: 
+Divide collaborators and researchers into two teams and compete their scores, which is the number of "like it!" by answering questions.
+Three community scholars give "like it!" when the answers are interesting, new knowledge, etc. The number of "Like it!" has no limitations to provide. The minimum score for a response could be zero.
 
 ### Milestones
 
@@ -30,7 +31,6 @@ Divide collaborators and researchers into 2 teams and compete their scores by an
 #### Quarter 4 (June, July, August)
 - [ ] Release and promote the videos
 - [ ] Publish winners photos and comments
-
 
 ### How the community can connect with the project
 
