@@ -3,7 +3,7 @@
 
 ### Overview of planned project
 - Purpose: 
-The aim is to ensure that the concept and goals of the Alan Turing Institute and Roche partnership project are widely understood and of interest not only to experts but also to general stakeholders.
+The aim is to ensure that the concept and goals of the Alan Turing Institute and Roche partnership project are widely understood and of interest not only to experts but also to general stakeholders. These videos will allow people to get to know the researchers behind the partnership research
 
 - Contents: 
 Divide collaborators and researchers into two teams and compete their scores, which is the number of "like it!" by answering questions.
