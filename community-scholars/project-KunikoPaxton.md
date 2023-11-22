@@ -19,7 +19,7 @@ Three community scholars give "like it!" when the answers are interesting, new k
 #### Quarter 2 (December, January, February)
 - [ ] Schedule interviews
 - [ ] Hire the host, time keeper and judge from community members
-- [ ] Decide the intervew setting online
+- [ ] Decide the interview setting online
 - [ ] Decide the prize
 - [ ] Write script for host introduction / welcome / close
 
