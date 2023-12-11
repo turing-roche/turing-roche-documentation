@@ -7,12 +7,13 @@
 ### Milestones
 
 #### Quarter 1 (September, October, November)
-- [ ] Familiarise with TTW
-- [ ] Read previously identified resources
-- [ ] Create chapter outline
+- [x] Familiarise with TTW
+- [x] Read previously identified resources
+- [x] Create chapter outline
 
 #### Quarter 2 (December, January, February)
-- [ ] Share outline with community
+- [x] Share outline with community on Slack
+- [ ] Commit chapter outline on GitHub
 - [ ] Look for collaborators
 - [ ] Gain further insights from community (questionnaire/interviews?)
 
