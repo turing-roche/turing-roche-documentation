@@ -68,7 +68,7 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 
 
 ### Blogs
-* ["Generating insights into disease, patient, and outcome heterogeneity: The Turing-Roche Partnership"]([https://www.mindthegap.health/post/heterogeneity-turing-roche-partnership](https://web.archive.org/web/20230401073827/https://www.mindthegap.health/post/heterogeneity-turing-roche-partnership)
+* ["Generating insights into disease, patient, and outcome heterogeneity: The Turing-Roche Partnership"](https://web.archive.org/web/20230401073827/https://www.mindthegap.health/post/heterogeneity-turing-roche-partnership)
 
 ## Talks Given
 | Date | Talk Title and venue | Speaker(s) | Recording Link |
