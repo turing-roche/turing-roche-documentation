@@ -64,6 +64,7 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 | 16 August 2023 | The FSHD muscle-blood biomarker: a circulating transcriptomic biomarker for clinical severity in facioscapulohumeral muscular dystrophy | Brain Communications | Chris Banerji | [Here](https://academic.oup.com/braincomms/advance-article/doi/10.1093/braincomms/fcad221/7242939) |
 | 19 October 2023 | FSHD muscle shows perturbation in fibroadipogenic progenitor cells, mitochondrial function and alternative splicing independently of inflammation  | Human Molecular Genetics | Chris Banerji | [Here](https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddad175/7323600) |
 | 28 October 2023 | Generative AI models should include detection mechanisms as a condition for public release | Ethics and Information Technology | Rohan Chakraborty | [Here](https://link.springer.com/article/10.1007/s10676-023-09728-4)
+| 16 December 2023 | Hypoxia enhances human myoblast differentiation: involvement of HIF1α and impact of DUX4, the FSHD causal gene | Skeletal Muscle | Chris Banerji | [Here](https://link.springer.com/article/10.1186/s13395-023-00330-2) 
 
 
 ### Blogs
