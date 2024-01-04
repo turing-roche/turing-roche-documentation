@@ -7,7 +7,7 @@ The Turing-Roche partnership sponsors Community Scholars to attend one conferenc
 
 | Conference name| Date | Location | Scholar attending |
 |:-----|:--------|:-----------|:-----------|
-|  |  | | 
+| European Congress of Radiology (ECR) 2024 | 28 Feb - 3 Mar  | Vienna (Austria) | Syafiq Ramlee
 
 
 ## Past Conferences
