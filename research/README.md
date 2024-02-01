@@ -63,8 +63,11 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 | 01 August 2023 | Deep Visualisation-Based Interpretable Analysis of Digital Pathology Images for Colorectal Cancer | International Conference on Frontiers in Computing and Systems (COMSYS 2022 oral paper) | Rohan Chakraborty | [Here](https://link.springer.com/chapter/10.1007/978-981-99-2680-0_49)
 | 16 August 2023 | The FSHD muscle-blood biomarker: a circulating transcriptomic biomarker for clinical severity in facioscapulohumeral muscular dystrophy | Brain Communications | Chris Banerji | [Here](https://academic.oup.com/braincomms/advance-article/doi/10.1093/braincomms/fcad221/7242939) |
 | 19 October 2023 | FSHD muscle shows perturbation in fibroadipogenic progenitor cells, mitochondrial function and alternative splicing independently of inflammation  | Human Molecular Genetics | Chris Banerji | [Here](https://academic.oup.com/hmg/advance-article/doi/10.1093/hmg/ddad175/7323600) |
-| 28 October 2023 | Generative AI models should include detection mechanisms as a condition for public release | Ethics and Information Technology | Rohan Chakraborty | [Here](https://link.springer.com/article/10.1007/s10676-023-09728-4)
-| 16 December 2023 | Hypoxia enhances human myoblast differentiation: involvement of HIF1α and impact of DUX4, the FSHD causal gene | Skeletal Muscle | Chris Banerji | [Here](https://link.springer.com/article/10.1186/s13395-023-00330-2) 
+| 28 October 2023 | Generative AI models should include detection mechanisms as a condition for public release | Ethics and Information Technology | Rohan Chakraborty | [Here](https://link.springer.com/article/10.1007/s10676-023-09728-4) |
+| 16 November 2023 | RUBic: rapid unsupervised biclustering | BMC Bioinformatics | Rohan Chakraborty | [Here](https://link.springer.com/article/10.1186/s12859-023-05534-3) |
+| 02 December 2023 | BliMSR: Blind Degradation Modelling for Generating High-Resolution Medical Images | Medical Image Understanding and Analysis (Conference Paper)| Rohan Chakraborty | [Here](https://link.springer.com/chapter/10.1007/978-3-031-48593-0_5) |
+| 16 December 2023 | Hypoxia enhances human myoblast differentiation: involvement of HIF1α and impact of DUX4, the FSHD causal gene | Skeletal Muscle | Chris Banerji | [Here](https://link.springer.com/article/10.1186/s13395-023-00330-2) |
+| 05 January 2024 | Computational drug repurposing for viral infectious diseases: a case study on monkeypox | Briefings in Functional Genomics | Rohan Chakraborty  | [Here](https://academic.oup.com/bfg/advance-article/doi/10.1093/bfgp/elad058/7512001) |
 
 
 ### Blogs
