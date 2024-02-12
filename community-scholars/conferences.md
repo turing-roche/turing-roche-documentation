@@ -8,7 +8,7 @@ The Turing-Roche partnership sponsors Community Scholars to attend one conferenc
 | Conference name| Date | Location | Scholar attending |
 |:-----|:--------|:-----------|:-----------|
 | European Congress of Radiology (ECR) 2024 | 28 Feb - 3 Mar  | Vienna (Austria) | Syafiq Ramlee
-
+| Organization for Human Brain Mapping (OHBM) 2024 | 23 June - 27 June  | Seoul (South Korea) | Zeena Shawa
 
 ## Past Conferences
 | Conference name| Date | Location | Scholar who attended | Post conference output
