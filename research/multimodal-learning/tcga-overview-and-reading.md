@@ -76,6 +76,7 @@ The following is an overview of the TCGA projects selected for further investiga
 | Wu et al., ‘Data Mining in Clinical Big Data’. ([Wu et al. 2021](https://doi.org/10.1186/s40779-021-00338-z)) | General review on big datasets (incl. TCGA and others), with descriptions of access process and processing techniques for each |
 | Rappoport and Shamir, ‘Multi-Omic and Multi-View Clustering Algorithms’. ([Rappoport and Shamir 2018](https://doi.org/10.1093/nar/gky889)) | Does what is says on the tin. Benchmarking multi-omics clustering algorithms on TCGA data |
 | Cantini et al., ‘Benchmarking Joint Multi-Omics Dimensionality Reduction Approaches for the Study of Cancer’. ([Cantini et al. 2013](https://doi.org/10.1038/s41467-020-20430-7)) | Systematic comparison of methods for combining high-demensional multi-omics data (JIVE was one of the best, see Lock et al. 2013) |
+| Kristensen et al., ‘Principles and Methods of Integrative Genomic Analyses in Cancer’. ([Kristensen et al. 2014](https://doi.org/10.1038/nrc3721)) | Comprehensive review of statistical methods for cancer omics analysis |
 
 ## Methodological articles
 
@@ -159,6 +160,8 @@ Luedde, Esther Herpel, Cleo-Aron Weis, Timo Gaiser, et al. 2019.
 “Predicting Survival from Colorectal Cancer Histology Slides Using Deep
 Learning: A Retrospective Multicenter Study.” *PLOS Medicine* 16 (1):
 e1002730. <https://doi.org/10.1371/journal.pmed.1002730>.
+
+Kristensen, Vessela N., Ole Christian Lingjærde, Hege G. Russnes, Hans Kristian M. Vollan, Arnoldo Frigessi, and Anne-Lise Børresen-Dale. ‘Principles and Methods of Integrative Genomic Analyses in Cancer’. Nature Reviews Cancer 14, no. 5 (May 2014): 299–313. <https://doi.org/10.1038/nrc3721>.
 
 Lock, Eric F., Katherine A. Hoadley, J. S. Marron, and Andrew B. Nobel.
 2013. “Joint and Individual Variation Explained (JIVE) for Integrated
