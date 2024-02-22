@@ -75,6 +75,7 @@ The following is an overview of the TCGA projects selected for further investiga
 | Hutter and Zenklusen, ‘The Cancer Genome Atlas’. ([Hutter and Zenklusen 2018](https://doi.org/10.1016/j.cell.2018.03.042)) | Comment article, summarising recent efforts (contemporary publications) in onological research using the dataset |
 | Wu et al., ‘Data Mining in Clinical Big Data’. ([Wu et al. 2021](https://doi.org/10.1186/s40779-021-00338-z)) | General review on big datasets (incl. TCGA and others), with descriptions of access process and processing techniques for each |
 | Rappoport and Shamir, ‘Multi-Omic and Multi-View Clustering Algorithms’. ([Rappoport and Shamir 2018](https://doi.org/10.1093/nar/gky889)) | Does what is says on the tin. Benchmarking multi-omics clustering algorithms on TCGA data |
+| Cantini et al., ‘Benchmarking Joint Multi-Omics Dimensionality Reduction Approaches for the Study of Cancer’. ([Cantini et al. 2013](https://doi.org/10.1038/s41467-020-20430-7)) | Systematic comparison of methods for combining high-demensional multi-omics data (JIVE was one of the best, see Lock et al. 2013) |
 
 ## Methodological articles
 
@@ -123,6 +124,8 @@ See also a brief review in Section II.A of ([Chen et al.
 |**Chen et al., ‘Pathomic Fusion’.** [(Chen et al., 2022, p. 759)](https://doi.org/10.1109/TMI.2020.3021387) | - CNN (pathology features)<br>- GCN (pathology cell organisation features)<br>- Feed-foward NN (genomic profile)<br>→ Tensor fusion with Kronecker product | **FROM**:  <br>- Pathology WSI<br>- Genomic molecular profile<br><br>**TO**:<br>Grading, treatment response, survival prediction | renal cell carcinoma |
 
 # Bibliography
+
+Cantini, Laura, Pooya Zakeri, Celine Hernandez, Aurelien Naldi, Denis Thieffry, Elisabeth Remy, and Anaïs Baudot. ‘Benchmarking Joint Multi-Omics Dimensionality Reduction Approaches for the Study of Cancer’. Nature Communications 12, no. 1 (5 January 2021): 124. <https://doi.org/10.1038/s41467-020-20430-7>.
 
 Chaudhary, Kumardeep, Olivier B. Poirion, Liangqun Lu, and Lana X.
 Garmire. 2018. “Deep LearningBased Multi-Omics Integration Robustly
