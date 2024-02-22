@@ -30,7 +30,7 @@ The following is an overview of the TCGA projects selected for further investiga
 ## TCGA-BRCA (Breast invasive carcinoma)
 
 - [Overview](https://www.cancer.gov/ccg/research/genome-sequencing/tcga/studied-cancers/breast-lobular-carcinoma-study)
-- [Data on GDC portal](https://portal.gdc.cancer.gov/projects/TCGA-BRCA): (n=1098)
+- [Data on GDC portal](https://portal.gdc.cancer.gov/projects/TCGA-BRCA) (n=1098)
 - Key publications: 
 	- Lobular carcinoma: [Comprehensive Molecular Portraits of Invasive Lobular Breast Cancer](https://www.cell.com/cell/fulltext/S0092-8674(15)01195-2)
 	- Ductal carcinoma: [Comprehensive molecular portraits of human breast tumours](https://www.nature.com/articles/nature11412)
