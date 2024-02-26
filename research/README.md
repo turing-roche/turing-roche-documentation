@@ -23,7 +23,7 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 ### Predictive Modelling
 
 #### Methods for fairness in clinical prediction modelling: data augmentation, doubly-robust procedures, and value-of-information analyses to evaluate and minimise biases:
-	* Lead PI: Brieuc Lehmann (University College London)
+* Lead PI: Brieuc Lehmann (University College London)
 * CO-Is: Karla Diaz-Ordaz (University College London), Ricardo Silva (University College London), Matthew Sperrin (University of Manchester)
 * PDRA: Ioanna Thoma (Turing Institute)
 * Start: 01/09/2023
@@ -37,9 +37,9 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 
 ### Multimodal learning
 
-* Lead PI: Tapabrata (Rohan) Chakraborty (Turing Insitute)
+* Lead PI: Tapabrata (Rohan) Chakraborty (Turing Institute)
 * PDRA: Fiona Young (Turing Institute)
-* Data Wranglers: Luis Santos and Mahwish Mohammad
+* Data Wranglers: Luis Santos and Mahwish Mohammad (Turing Institute)
 * Start: 29/01/2024
 * End: 29/01/2026
 
