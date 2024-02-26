@@ -78,7 +78,7 @@ The scientific objectives for the multimodal are still being determined! In the 
 | 02 December 2023 | BliMSR: Blind Degradation Modelling for Generating High-Resolution Medical Images | Medical Image Understanding and Analysis (Conference Paper)| Rohan Chakraborty | [Here](https://link.springer.com/chapter/10.1007/978-3-031-48593-0_5) |
 | 16 December 2023 | Hypoxia enhances human myoblast differentiation: involvement of HIF1α and impact of DUX4, the FSHD causal gene | Skeletal Muscle | Chris Banerji | [Here](https://link.springer.com/article/10.1186/s13395-023-00330-2) |
 | 05 January 2024 | Computational drug repurposing for viral infectious diseases: a case study on monkeypox | Briefings in Functional Genomics | Rohan Chakraborty  | [Here](https://academic.oup.com/bfg/advance-article/doi/10.1093/bfgp/elad058/7512001) |
-| 21 February 2024 | Uncertainty Quantification of Digital Smart Health predictive models | Biomedical Signal Processing and Control | Rohan Chakraborty  | [Here](https://www.sciencedirect.com/science/article/pii/S1746809424001629) |
+| 21 February 2024 | Uncertainty quantification of cuffless blood pressure estimation based on parameterized model evidential ensemble learning | Biomedical Signal Processing and Control | Rohan Chakraborty  | [Here](https://www.sciencedirect.com/science/article/pii/S1746809424001629) |
 
 
 ### Blogs
