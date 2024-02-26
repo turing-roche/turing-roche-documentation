@@ -38,7 +38,8 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 ### Multimodal learning
 
 * Lead PI: Tapabrata (Rohan) Chakraborty (Turing Insitute)
-* PDRA: Fiona Young (Turing Insitute)
+* PDRA: Fiona Young (Turing Institute)
+* Data Wranglers: Luis Santos and Mahwish Mohammad
 * Start: 29/01/2024
 * End: 29/01/2026
 
