@@ -11,29 +11,39 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 * CO-I: Ruben Sanchez-Garcia (University of Southampton)
 * PDRA: Anthony Baptista (Queen Mary University of London and Turing Institute)
 * Start: 01/09/2022
-* End: 01/02/24
+* End: 01/02/2024
 
 #### Developing a Coherent Bayesian Modelling and Imputation Framework:
 * Lead PI: Robin Mitra (University College London)
 * CO-Is: Ana Basiri (University of Glasgow), Eleni-Roaslina Andrinopoulou (Erasmus University Medical Center Rotterdam)
 * PDRA: James Jackson (Turing Institute)
 * Start: 01/09/2022
-* End: 01/02/24
+* End: 01/02/2024
 
 ### Predictive Modelling
 
 #### Methods for fairness in clinical prediction modelling: data augmentation, doubly-robust procedures, and value-of-information analyses to evaluate and minimise biases:
-* Lead PI: Brieuc Lehmann (University College London)
+	* Lead PI: Brieuc Lehmann (University College London)
 * CO-Is: Karla Diaz-Ordaz (University College London), Ricardo Silva (University College London), Matthew Sperrin (University of Manchester)
 * PDRA: Ioanna Thoma (Turing Institute)
-* Start: 01/09/23
-* End: 01/02/25
+* Start: 01/09/2023
+* End: 01/02/2025
 
 #### Geometry of Deep Learning Project
 * PDRA: Alessandro Barp (Turing Institute) 
 
 #### Conformal Prediction
 * PDRA: Ariane Marandon (Turing Institute)
+
+### Multimodal learning
+
+* Lead PI: Tapabrata (Rohan) Chakraborty (Turing Insitute)
+* PDRA: Fiona Young (Turing Institute)
+* Data Wranglers: Luis Santos and Mahwish Mohammad
+* Start: 29/01/2024
+* End: 29/01/2026
+
+The scientific objectives for the multimodal are still being determined! In the meantime, initial investigations will focus on the [TCGA database](multimodal-learning/tcga-overview-and-reading.md).
 
 ## Publications
 
