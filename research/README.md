@@ -35,7 +35,7 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 #### Conformal Prediction
 * PDRA: Ariane Marandon (Turing Institute)
 
-### Multimodal learning
+### Multimodal Analysis
 
 * Lead PI: Tapabrata (Rohan) Chakraborty (Turing Institute)
 * PDRA: Fiona Young (Turing Institute)
