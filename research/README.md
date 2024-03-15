@@ -64,7 +64,7 @@ The scientific objectives for the multimodal are still being determined! In the 
 | 10 March 2023 | The dynamic nature of percolation on networks with triadic interactions | Nature Communications | Ginestra Bianconi | [Here](https://www.nature.com/articles/s41467-023-37019-5)
 | 11 May 2023 | Neuroscience needs Network Science | arXiv | Ginestra Bianconi | [Preprint link](https://arxiv.org/abs/2305.06160)
 
-### Publications from the independent research of our partnership Senior Postdoctoral Research Associates
+### Publications from the independent research of our partnership Theme Leads
 | Publication Date | Title | Publication Venue | Partnership Authors | Link |
 |:-----|:--------|:-----------|:----------|:----------|
 | 15 May 2023 | An in silico FSHD muscle fiber for modeling DUX4 dynamics and predicting the impact of therapy | eLife | Chris Banerji | [Here](https://elifesciences.org/articles/88345) 
@@ -80,6 +80,7 @@ The scientific objectives for the multimodal are still being determined! In the 
 | 16 December 2023 | Hypoxia enhances human myoblast differentiation: involvement of HIF1α and impact of DUX4, the FSHD causal gene | Skeletal Muscle | Chris Banerji | [Here](https://link.springer.com/article/10.1186/s13395-023-00330-2) |
 | 05 January 2024 | Computational drug repurposing for viral infectious diseases: a case study on monkeypox | Briefings in Functional Genomics | Rohan Chakraborty  | [Here](https://academic.oup.com/bfg/advance-article/doi/10.1093/bfgp/elad058/7512001) |
 | 21 February 2024 | Uncertainty quantification of cuffless blood pressure estimation based on parameterized model evidential ensemble learning | Biomedical Signal Processing and Control | Rohan Chakraborty  | [Here](https://www.sciencedirect.com/science/article/pii/S1746809424001629) |
+| 15 March 2024 | The DUX4–HIF1α Axis in Murine and Human Muscle Cells: A Link More Complex Than Expected | International Journal of Molecular Sciences | Chris Banerji | [Here](https://www.mdpi.com/1422-0067/25/6/3327) |
 
 
 ### Blogs
