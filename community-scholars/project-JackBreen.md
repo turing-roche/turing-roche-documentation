@@ -13,13 +13,14 @@
 
 #### Quarter 2 (December, January, February)
 - [x] Share outline with community on Slack
-- [ ] Commit chapter outline on GitHub
-- [ ] Look for collaborators
-- [ ] Gain further insights from community (questionnaire/interviews?)
+- [x] Raise issue with chapter outline on GitHub
+- [x] Look for collaborators
+- ~~[ ] Gain further insights from community (questionnaire/interviews?)~~
 
 #### Quarter 3 (March, April, May)
 - [ ] Finish first full draft
-- [ ] Attend Book Dash in May 
+- [ ] Continue trying to find collaborators
+- ~~[ ] Attend Book Dash in May~~
 
 #### Quarter 4 (June, July, August)
 - [ ] Integrate changes from community feedback
