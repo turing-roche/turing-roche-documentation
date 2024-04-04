@@ -20,23 +20,22 @@ Episode topics (subject to change):
 
 #### Quarter 1 (September, October, November)
 - [x] Planning out topics of all the podcast episodes
-- [ ] Creating scripts for the first batch
-- [ ] Inviting relevant guests onto the podcast
-- [ ] Setting up social media presence: logo, name, social media accounts
-- [ ] Recording the first episode
+- [x] Creating scripts for the first batch
+- [x] Recording the first episode
 
 #### Quarter 2 (December, January, February)
-- [ ] Recording the first half of episodes
+- [x] Recording the first half of episodes
 - [ ] Editing (Davy) and transcribing (Florence) the first half of episodes
-- [ ] Publishing the episodes and marketing with vigour!
 
 #### Quarter 3 (March, April, May)
-- [ ] Continuing to publish the first batch of episodes (depending on release schedule)
 - [ ] Creating scripts for the final batch of episodes
 - [ ] Inviting guest speakers
 - [ ] Recording the series-middle Q+A episode
 - [ ] Editing/transcribing/publishing Q+A episode
 - [ ] Continuing to keep up social media presence - one post a week/fortnight
+- [ ] Inviting relevant guests onto the podcast
+- [ ] Setting up social media presence: logo, name, social media accounts
+
 
 #### Quarter 4 (June, July, August)
 - [ ] Recording the final batch of episodes
