@@ -81,7 +81,7 @@ The scientific objectives for the multimodal are still being determined! In the 
 | 05 January 2024 | Computational drug repurposing for viral infectious diseases: a case study on monkeypox | Briefings in Functional Genomics | Rohan Chakraborty  | [Here](https://academic.oup.com/bfg/advance-article/doi/10.1093/bfgp/elad058/7512001) |
 | 21 February 2024 | Uncertainty quantification of cuffless blood pressure estimation based on parameterized model evidential ensemble learning | Biomedical Signal Processing and Control | Rohan Chakraborty  | [Here](https://www.sciencedirect.com/science/article/pii/S1746809424001629) |
 | 15 March 2024 | The DUX4–HIF1α Axis in Murine and Human Muscle Cells: A Link More Complex Than Expected | International Journal of Molecular Sciences | Chris Banerji | [Here](https://www.mdpi.com/1422-0067/25/6/3327) |
-| 22 March 2024 | Human-Centered AI: A Multidisciplinary Perspective for Policy-Makers, Auditors, and Users Book. Chapter in book co-written by Rohan 'How Human-Centered Are the AI Systems That Implement Social Media Platforms?' | Routledge | Rohan Chakraborty | [Here](https://www.routledge.com/Human-Centered-AI-A-Multidisciplinary-Perspective-for-Policy-Makers-Auditors-and-Users/Regis-Denis-Axente-Kishimoto/p/book/9781032341613) |
+| 22 March 2024 | 'Human-Centered AI: A Multidisciplinary Perspective for Policy-Makers, Auditors, and Users' Book. Chapter in book co-written by Rohan 'How Human-Centered Are the AI Systems That Implement Social Media Platforms?' | Routledge | Rohan Chakraborty | [Here](https://www.routledge.com/Human-Centered-AI-A-Multidisciplinary-Perspective-for-Policy-Makers-Auditors-and-Users/Regis-Denis-Axente-Kishimoto/p/book/9781032341613) |
 
 
 ### Blogs
