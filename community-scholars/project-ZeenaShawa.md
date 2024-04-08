@@ -4,10 +4,11 @@
 ### Overview of planned project
 Missing data is a common occurrence in modern data science, especially with the increasing availability of large, multimodal datasets. However, missing data or entries with missing data are often removed from any analysis. Thus, this project aims to create a chapter in the Turing-Way to provide an overview of missing data and potential techniques to handle it. 
 
+
 ### Milestones
 
 #### Quarter 1 (September, October, November)
-- [ ] Complete Chapter Outline
+- [x] Complete Chapter Outline
 - [ ] Discuss ideas with Turing-Roche experts
 
 #### Quarter 2 (December, January, February)
@@ -16,11 +17,11 @@ Missing data is a common occurrence in modern data science, especially with the 
 
 #### Quarter 3 (March, April, May)
 - [ ] Finalise Chapter, taking in feedback
-- [ ] Organise Supplementary Activity ( e.g. demystifying video/ knowledge share session/ workshop)
+- [ ] ~~Organise Supplementary Activity ( e.g. demystifying video/ knowledge share session/ workshop)~~
 - [ ] Attending Turing Way May Book Dash
 
 #### Quarter 4 (June, July, August)
-- [ ] Hosting/Completing Secondary Smaller Activity 
+- [ ] ~~Hosting/Completing Secondary Smaller Activity~~ 
 - [ ] Conference and Reflections
 
 
