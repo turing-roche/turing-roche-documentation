@@ -85,7 +85,7 @@ The scientific objectives for the multimodal are still being determined! In the 
 
 
 ### Blogs
-* ["Generating insights into disease, patient, and outcome heterogeneity: The Turing-Roche Partnership"](https://web.archive.org/web/20230401073827/https://www.mindthegap.health/post/heterogeneity-turing-roche-partnership)
+* [Generating insights into disease, patient, and outcome heterogeneity: The Turing-Roche Partnership](https://web.archive.org/web/20230401073827/https://www.mindthegap.health/post/heterogeneity-turing-roche-partnership)
 * [Einsteinian Relativity meets Cancer Biology: Geometry as a Common Language](https://www.linkedin.com/pulse/einsteinian-relativity-meets-cancer-biology-geometry-dr-christopher-zyehe/?trackingId=MNHstevjjtCG5oixJ%2FWNYQ%3D%3D)
 * [Charting cellular differentiation trajectories with Ricci flow](https://communities.springernature.com/posts/charting-cellular-differentiation-trajectories-with-ricci-flow)
 
