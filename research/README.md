@@ -1,6 +1,6 @@
 # Turing-Roche Partnership Research
 
-Due to the broad nature of our North Star (*'To enable the generation of insights to better understand patient and disease heterogeneity and its relevance to clinical outcomes at an unprecedented level of precision in order to improve clinical care'*), the partnership has decided to focus on certain research themes across the 5 years. You can find more information about activities under each of our research themes on our [webpage](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership).
+Due to the broad nature of our North Star (*'To enable the generation of insights to better understand patient and disease heterogeneity and its relevance to clinical outcomes at an unprecedented level of precision in order to improve clinical care'*), the partnership has decided to focus on three research themes across the 5 years. You can find more information about activities under each of our research themes on our [webpage](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership).
 
 ## Research Projects Funded
 
@@ -83,6 +83,8 @@ The scientific objectives for the multimodal are still being determined! In the 
 | 15 March 2024 | The DUX4–HIF1α Axis in Murine and Human Muscle Cells: A Link More Complex Than Expected | International Journal of Molecular Sciences | Chris Banerji | [Here](https://www.mdpi.com/1422-0067/25/6/3327) |
 | 22 March 2024 | Book: 'Human-Centered AI: A Multidisciplinary Perspective for Policy-Makers, Auditors, and Users'. Chapter in book co-written by Rohan 'How Human-Centered Are the AI Systems That Implement Social Media Platforms?' | Routledge | Rohan Chakraborty | [Here](https://www.routledge.com/Human-Centered-AI-A-Multidisciplinary-Perspective-for-Policy-Makers-Auditors-and-Users/Regis-Denis-Axente-Kishimoto/p/book/9781032341613) |
 
+## Associated GitHub Repositories and Code
+abc
 
 ### Blogs
 * [Generating insights into disease, patient, and outcome heterogeneity: The Turing-Roche Partnership](https://web.archive.org/web/20230401073827/https://www.mindthegap.health/post/heterogeneity-turing-roche-partnership)
@@ -104,4 +106,4 @@ The scientific objectives for the multimodal are still being determined! In the 
 | 28 April 2023 | AI for Personalised Healthcare: The Turing-Roche Partnership at Crick AI Club | Vicky Hellon | None
 | 14 June 2023 | PSI Conference talks: Chris- 'Machine Learning and Artificial Intelligence in Clinical Statistics. An opportunity or an over-hyped distraction?' and Robin 'Addressing Structured Missingness in large complex health databases' | Chris Harbron and Robin Mitra | None
 | June 2023 | International FSHD Conference | Chris Banerji | None
-| October 2023| Roche Symposium Welwyn- presenting a poster on cancer digital pathology | Rohan Chakraborty | None |
+| November 2023| Roche Symposium Welwyn- presenting a poster on cancer digital pathology | Rohan Chakraborty | None |
