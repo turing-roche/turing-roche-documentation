@@ -11,14 +11,14 @@ Due to the broad nature of our North Star (*'To enable the generation of insight
 * CO-I: Ruben Sanchez-Garcia (University of Southampton)
 * PDRA: Anthony Baptista (Queen Mary University of London and Turing Institute)
 * Start: 01/09/2022
-* End: 01/02/2024
+* End: 01/02/2024 (to be extended)
 
 #### Developing a Coherent Bayesian Modelling and Imputation Framework:
 * Lead PI: Robin Mitra (University College London)
 * CO-Is: Ana Basiri (University of Glasgow), Eleni-Roaslina Andrinopoulou (Erasmus University Medical Center Rotterdam)
 * PDRA: James Jackson (Turing Institute)
 * Start: 01/09/2022
-* End: 01/02/2024
+* End: 01/02/2024 (to be extended)
 
 ### Predictive Modelling
 
@@ -86,6 +86,8 @@ The scientific objectives for the multimodal are still being determined! In the 
 
 ### Blogs
 * ["Generating insights into disease, patient, and outcome heterogeneity: The Turing-Roche Partnership"](https://web.archive.org/web/20230401073827/https://www.mindthegap.health/post/heterogeneity-turing-roche-partnership)
+* [Einsteinian Relativity meets Cancer Biology: Geometry as a Common Language](https://www.linkedin.com/pulse/einsteinian-relativity-meets-cancer-biology-geometry-dr-christopher-zyehe/?trackingId=MNHstevjjtCG5oixJ%2FWNYQ%3D%3D)
+* [Charting cellular differentiation trajectories with Ricci flow](https://communities.springernature.com/posts/charting-cellular-differentiation-trajectories-with-ricci-flow)
 
 ## Talks Given
 | Date | Talk Title and venue | Speaker(s) | Recording Link |
