@@ -2,9 +2,11 @@
 
 Welcome to community repository for the [Turing-Roche Strategic Partnership](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership)! 🎉 Here you'll find project and community related documentation from our partnership.
 
+You can find more about our research and links to our research code in the README [here](https://github.com/alan-turing-institute/turing-roche-partnership/tree/main/research).
+
 ## 🗺️Background
 
-The Alan Turing Institute and Roche officially set up our five year strategic partnership in June 2021 following a successful [Turing Institute Data Study Group Hackathon](https://www.turing.ac.uk/research/publications/data-study-group-final-report-roche) and a 12 week research project on lung cancer treatment. 
+Our five year strategic partnership between the Alan Turing Institute and Roche officially launched in June 2021 following a successful [Turing Institute Data Study Group Hackathon](https://www.turing.ac.uk/research/publications/data-study-group-final-report-roche) and a 12 week research project on lung cancer treatment. 
  
 The **'North Star'** of our five year partnership is to _enable the generation of insights to better understand patient and disease heterogeneity and its relevance to clinical outcomes at an unprecedented level of precision in order to improve clinical care_.
 
