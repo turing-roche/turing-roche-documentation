@@ -87,6 +87,7 @@ The scientific objectives for the multimodal are still being determined! In the 
 * [Repository](https://www.nature.com/articles/s41467-024-45889-6) for [Charting cellular differentiation trajectories with Ricci flow](https://www.nature.com/articles/s41467-024-45889-6) publication
 * [Repository](https://github.com/anthbapt/pynetflow) for Structured Missingness Network Project- code for Ricci flow in Python
 * [Repository](https://github.com/anthbapt/Geometry-Informed-Data-Representations) for Turing Theory and Methods Challenge Fortnight 'Geometry Informed Data Representations'
+* [Repository](https://github.com/CMATERJU-BIOINFO/RUBic) for RUBic: Rapid Unsupervised Biclustering (currently being used on the Roche CGDB dataset)
 
 ### Blogs
 * [Generating insights into disease, patient, and outcome heterogeneity: The Turing-Roche Partnership](https://web.archive.org/web/20230401073827/https://www.mindthegap.health/post/heterogeneity-turing-roche-partnership)
