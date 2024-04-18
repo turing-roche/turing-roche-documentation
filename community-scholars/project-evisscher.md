@@ -7,21 +7,21 @@ The aim of techercise is to share knowledge on how to perform research and impro
 ### Milestones
 
 #### Quarter 1 (September, October, November)
-- [ ] Scoping initial few sessions
-- [ ] Create slack channel
-- [ ] Organised agenda/speakers for first session
-- [ ] Advertising to relevant parties, including internally at BDI
+- [x] Scoping initial few sessions
+- [x] Create slack channel
+- [x] Organised agenda/speakers for first session
+- [x] Advertising to relevant parties, including internally at BDI
 
 #### Quarter 2 (December, January, February)
-- [ ] Hold first session January 2024
-- [ ] Outreach to gauge further topics of interest
-- [ ] Review/adapt structure, feedback form
-- [ ] Gauge interest in paired programming sessions
-- [ ] Progress report
+- [x] Hold first session January 2024
+- [-] Outreach to gauge further topics of interest
+- [x] Review/adapt structure, feedback form (partial)
+- [-] Gauge interest in paired programming sessions
+- [x] Progress report
 
 #### Quarter 3 (March, April, May)
-- [ ] Sessions in March and May
-- [ ] Pairing people for code review 
+- [x] Sessions in March and May
+- [-] Pairing people for code review 
 
 #### Quarter 4 (June, July, August)
 - [ ] Final session in July
@@ -31,3 +31,8 @@ The aim of techercise is to share knowledge on how to perform research and impro
 ### How the community can connect with the project
 The Turing-Roche partnership slack for now, but we aim to create a dedicated slack channel for the project, and will update this accordingly.
 The community can also contact me directly with any ideas, feedback or questions. 
+
+
+### Some comments:
+Moved away from paired partnership as seminar organisation seemed like enough. Also post regularly in slack channel with hopefully useful tidbits. Seminars have been well attended and recieved some good feedback.
+
