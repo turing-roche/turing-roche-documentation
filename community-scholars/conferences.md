@@ -7,11 +7,10 @@ The Turing-Roche partnership sponsors Community Scholars to attend one conferenc
 
 | Conference name| Date | Location | Scholar attending |
 |:-----|:--------|:-----------|:-----------|
-| European Congress of Radiology (ECR) 2024 | 28 Feb - 3 Mar  | Vienna (Austria) | Syafiq Ramlee
 | International Symposium on Biomedical Imaging (ISBI) 2024 | 27 - 30 May  | Athens (Greece) | Jack Breen
 
 
 ## Past Conferences
 | Conference name| Date | Location | Scholar who attended | Post conference output
-|:-----|:--------|:-----------|:-----------|:-----------|
-|  |  | | 
+|:-----|:----------|:-----------|:-----------|:-----------|
+| European Congress of Radiology (ECR) 2024 | 28 Feb - 3 Mar | Vienna (Austria) | Syafiq Ramlee | https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership/ECR-2024
