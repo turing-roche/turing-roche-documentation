@@ -8,6 +8,7 @@ The Turing-Roche partnership sponsors Community Scholars to attend one conferenc
 | Conference name| Date | Location | Scholar attending |
 |:-----|:--------|:-----------|:-----------|
 | International Symposium on Biomedical Imaging (ISBI) 2024 | 27 - 30 May  | Athens (Greece) | Jack Breen
+| Organisation of Human Brain Mapping (OHBM) 2024 | 23 - 27 June  | Seoul (South Korea) | Florence Townend
 
 
 ## Past Conferences
