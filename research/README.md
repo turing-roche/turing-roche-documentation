@@ -86,7 +86,7 @@ The scientific objectives for the multimodal are still being determined! In the 
 | 22 March 2024 | Book: 'Human-Centered AI: A Multidisciplinary Perspective for Policy-Makers, Auditors, and Users'. Chapter in book co-written by Rohan 'How Human-Centered Are the AI Systems That Implement Social Media Platforms?' | Routledge | Rohan Chakraborty | [Here](https://www.routledge.com/Human-Centered-AI-A-Multidisciplinary-Perspective-for-Policy-Makers-Auditors-and-Users/Regis-Denis-Axente-Kishimoto/p/book/9781032341613) |
 
 ## Associated GitHub Repositories and Code
-* [Repository](https://www.nature.com/articles/s41467-024-45889-6) for [Charting cellular differentiation trajectories with Ricci flow](https://www.nature.com/articles/s41467-024-45889-6) publication
+* [Repository](https://github.com/anthbapt/Cellular-differentiation-trajectories-with-Ricci-flow) for [Charting cellular differentiation trajectories with Ricci flow](https://www.nature.com/articles/s41467-024-45889-6) publication
 * [Repository](https://github.com/anthbapt/pynetflow) for Structured Missingness Network Project- code for Ricci flow in Python
 * [Repository](https://github.com/anthbapt/Geometry-Informed-Data-Representations) for Turing Theory and Methods Challenge Fortnight 'Geometry Informed Data Representations'
 * [Repository](https://github.com/CMATERJU-BIOINFO/RUBic) for RUBic: Rapid Unsupervised Biclustering (currently being used on the Roche CGDB dataset)
