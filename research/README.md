@@ -56,7 +56,7 @@ The scientific objectives for the multimodal are still being determined! In the 
 | 20 November 2023 | Zoo Guide to Network Embedding |  Journal of Physics: Complexity | Anthony Baptista, Anais Baudot, Ruben Sanchez-Garcia and Ginestra Bianconi | [Journal link](https://iopscience.iop.org/article/10.1088/2632-072X/ad0e23/pdf), [Preprint link](https://arxiv.org/abs/2305.03474) |
 | 13 March 2024 | Charting cellular differentiation trajectories with Ricci flow | Nature Communications | Anthony Baptista, Ben MacArthur and Chris Banerji | [Journal link](https://www.nature.com/articles/s41467-024-45889-6) |
 | 22 April 2024 | Deep Learning as Ricci Flow | arXiv | Anthony, Alessandro, Rohan, Chris H, Ben, Chris B | [Preprint link](https://arxiv.org/abs/2404.14265) |
-| 23 April 2024 | Mining higher-order triadic interactions | Anthony, Marta, Ben, Ruben, Ginestra | [Preprint link](https://arxiv.org/abs/2404.14997) | 
+| 23 April 2024 | Mining higher-order triadic interactions | arXiv | Anthony, Marta, Ben, Ruben, Ginestra | [Preprint link](https://arxiv.org/abs/2404.14997) | 
 
 ### Associated publications from partnership members under the Structured Missingness Theme
 | Publication Date | Title | Publication Venue | Partnership Authors | Link |
