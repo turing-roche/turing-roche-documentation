@@ -8,6 +8,7 @@ The Turing-Roche partnership sponsors Community Scholars to attend one conferenc
 | Conference name| Date | Location | Scholar(s) attending |
 |:-----|:--------|:-----------|:-----------|
 | International Symposium on Biomedical Imaging (ISBI) 2024 | 27 - 30 May  | Athens (Greece) | Jack Breen
+| 20th European Congress on Digital Pathology | 5-8 June | Vilnius (Lithuania) | Tom Butters 
 | Organisation of Human Brain Mapping (OHBM) 2024 | 23 - 27 June  | Seoul (South Korea) | Florence Townend, <br> Zeena Shawa
 | Research Software Engineering Conference (RSE) 2024 | 03 - 05 September  | Newcastle (UK) | Ellen Visscher
 
