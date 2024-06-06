@@ -7,6 +7,7 @@ The Turing-Roche partnership sponsors Community Scholars to attend one conferenc
 
 | Conference name| Date | Location | Scholar(s) attending |
 |:-----|:--------|:-----------|:-----------|
+| Harvard CAUSALab Course on Key Topics in Causal Inference 2024 | 3 - 7 June  | Boston (USA) | Sarah Buehler
 | International Symposium on Biomedical Imaging (ISBI) 2024 | 27 - 30 May  | Athens (Greece) | Jack Breen
 | 20th European Congress on Digital Pathology | 5-8 June | Vilnius (Lithuania) | Tom Butters 
 | Organisation of Human Brain Mapping (OHBM) 2024 | 23 - 27 June  | Seoul (South Korea) | Florence Townend, <br> Zeena Shawa
