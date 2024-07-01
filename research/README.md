@@ -87,6 +87,7 @@ The scientific objectives for the multimodal are still being determined! In the 
 | 15 March 2024 | The DUX4–HIF1α Axis in Murine and Human Muscle Cells: A Link More Complex Than Expected | International Journal of Molecular Sciences | Chris Banerji | [Here](https://www.mdpi.com/1422-0067/25/6/3327) |
 | 22 March 2024 | Book: 'Human-Centered AI: A Multidisciplinary Perspective for Policy-Makers, Auditors, and Users'. Chapter in book co-written by Rohan 'How Human-Centered Are the AI Systems That Implement Social Media Platforms?' | Routledge | Rohan Chakraborty | [Here](https://www.routledge.com/Human-Centered-AI-A-Multidisciplinary-Perspective-for-Policy-Makers-Auditors-and-Users/Regis-Denis-Axente-Kishimoto/p/book/9781032341613) |
 | 08 May 2024 | Transcriptomic gene signatures measure satellite cell activity in muscular dystrophies | iScience | Chris Banerji | [Here](https://www.sciencedirect.com/science/article/pii/S2589004224011696) |
+| 28 June 2024 | Deep features and metaheuristics guided optimization-based method for breast cancer diagnosis | Multimedia Tools and Applications | Rohan Chakraborty | [Here](https://link.springer.com/article/10.1007/s11042-024-19629-3) |
 
 ## Associated GitHub Repositories and Code
 * [Repository](https://github.com/anthbapt/Cellular-differentiation-trajectories-with-Ricci-flow) for [Charting cellular differentiation trajectories with Ricci flow](https://www.nature.com/articles/s41467-024-45889-6) publication
