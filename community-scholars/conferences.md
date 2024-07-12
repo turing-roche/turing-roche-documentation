@@ -12,7 +12,7 @@ The Turing-Roche partnership sponsors Community Scholars to attend one conferenc
 | 20th European Congress on Digital Pathology | 5-8 June | Vilnius (Lithuania) | Tom Butters 
 | Organisation of Human Brain Mapping (OHBM) 2024 | 23-27 June  | Seoul (South Korea) | Florence Townend, <br> Zeena Shawa
 | EASST-4S STS (Science and Technology studies conference run jointly by the European Association for the Study of Science and Technology (EASST) and the Society for Social Studies of Science (4S). | 16-19 July | Amsterdam (Netherlands) | Davy Tennison |
-| International Conference on Machine Learning (ICML) 2024 | 23-25 July  | Vienna (Austria) | Kuniko Paxton
+| International Conference on Machine Learning (ICML) 2024 & WiML symposium at ICML | 22-25 July  | Vienna (Austria) | Kuniko Paxton
 | Research Software Engineering Conference (RSE) 2024 | 03-05 September  | Newcastle (UK) | Ellen Visscher
 
 
