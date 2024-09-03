@@ -15,7 +15,7 @@ The Turing-Roche partnership sponsors Community Scholars to attend one conferenc
 ## Past Conferences
 | Conference name| Date | Location | Scholar who attended | Post conference output
 |:-----|:----------|:-----------|:-----------|:-----------|
-| European Congress of Radiology (ECR) 2024 | 28 Feb-3 Mar | Vienna (Austria) | Syafiq Ramlee | https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership/ECR-2024
+| European Congress of Radiology (ECR) 2024 | 28 Feb-3 March | Vienna (Austria) | Syafiq Ramlee | https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership/ECR-2024
 | International Symposium on Biomedical Imaging (ISBI) 2024 | 27-30 May  | Athens (Greece) | Jack Breen | https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership/ISBI-2024
 | Harvard CAUSALab Course on Key Topics in Causal Inference 2024 | 3-7 June  | Boston (USA) | Sarah Buehler | https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership/CAUSALab
 | Organisation of Human Brain Mapping (OHBM) 2024 | 23-27 June  | Seoul (South Korea) | Florence Townend | https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership/a-guide-to-poster-presentations
