@@ -18,11 +18,12 @@ Missing data is a common occurrence in modern data science, especially with the 
 #### Quarter 3 (March, April, May)
 - [ ] Finalise Chapter, taking in feedback
 - [ ] ~~Organise Supplementary Activity ( e.g. demystifying video/ knowledge share session/ workshop)~~
-- [ ] Attending Turing Way May Book Dash
+
 
 #### Quarter 4 (June, July, August)
-- [ ] ~~Hosting/Completing Secondary Smaller Activity~~ 
-- [ ] Conference and Reflections
+- [ ] ~~Hosting/Completing Secondary Smaller Activity~~
+- [x] Attending Turing Way June Book Dash
+- [x] Conference and Reflections
 
 
 ### How the community can connect with the project
