@@ -3,14 +3,6 @@
 The Turing-Roche partnership sponsors Community Scholars to attend one conference during their cohort year. Scholars will then produce a post conference output (such as a video, blog, report) about their time there. If you are attending one of the conferences below and would like to engage with one of our scholars then please feel free to message them through the [Turing-Roche Slack Workspace](https://docs.google.com/forms/d/e/1FAIpQLSep6mcxlA-QouGk1HLuonmnn-Ml6aEyhClbYOSPW4UEr6OALA/viewform) to arrange this. 
 
 
-## Upcoming Conferences
-
-| Conference name| Date | Location | Scholar(s) attending |
-|:-----|:--------|:-----------|:-----------|
-| Research Software Engineering Conference (RSE) 2024 | 03-05 September  | Newcastle (UK) | Ellen Visscher |
-
-
-
 ## Past Conferences
 | Conference name| Date | Location | Scholar who attended | Post conference output
 |:-----|:----------|:-----------|:-----------|:-----------|
@@ -22,4 +14,4 @@ The Turing-Roche partnership sponsors Community Scholars to attend one conferenc
 | Organization of Human Brain Mapping (OHBM) 2024 | 23-27 June  | Seoul (South Korea) | Zeena Shawa | https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership/OHBM-2024 |
 | EASST-4S STS (Science and Technology studies conference run jointly by the European Association for the Study of Science and Technology (EASST) and the Society for Social Studies of Science (4S) | 16-19 July | Amsterdam (Netherlands) | Davy Tennison | https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership/EASST-4S-STS
 | International Conference on Machine Learning (ICML) 2024 & WiML symposium at ICML | 22-25 July  | Vienna (Austria) | Kuniko Paxton | https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership/ICML2024 |
-
+| Research Software Engineering Conference (RSE) 2024 | 03-05 September  | Newcastle (UK) | Ellen Visscher | https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership/RSECon |
