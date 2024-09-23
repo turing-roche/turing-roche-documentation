@@ -30,7 +30,7 @@ The next two episodes of the podcast have been released, covering the theme of S
 
 You can listen on [Spotify](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpublic-gbr.mkt.dynamics.com%2Fapi%2Forgs%2Fcd69a60c-3e6e-41d1-9cc4-5dc606fed704%2Fr%2FbFawvUkK3U-4CTi4bd4n3QIAAAA%3Ftarget%3D%257B%2522TargetUrl%2522%253A%2522https%25253A%25252F%25252Fopen.spotify.com%25252Fshow%25252F2YrjZTXoSAOHFsuQtjgR3z%25253Fsi%25253D762702a406d6414f%2522%252C%2522RedirectOptions%2522%253A%257B%25225%2522%253Anull%252C%25221%2522%253Anull%257D%257D%26digest%3DOJZOJbO680t18XAr6yLme7UjiTpIuM6ZXl1nFZAgJcM%253D%26secretVersion%3Da6751a3a834744298598bfc7d73b336f&data=05%7C02%7Cvhellon%40turing.ac.uk%7C0ce823c83de343487fc408dcdbc96e13%7C4395f4a7e4554f958a9f1fbaef6384f9%7C0%7C0%7C638626905446169068%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=5UHgk3N4sSxJN0u%2FO76kBTBQjTIsBVEmeryXDi1lS4o%3D&reserved=0) and [Apple Podcasts](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpublic-gbr.mkt.dynamics.com%2Fapi%2Forgs%2Fcd69a60c-3e6e-41d1-9cc4-5dc606fed704%2Fr%2FbFawvUkK3U-4CTi4bd4n3QMAAAA%3Ftarget%3D%257B%2522TargetUrl%2522%253A%2522https%25253A%25252F%25252Fpodcasts.apple.com%25252Fgb%25252Fpodcast%25252Fdata-day-health%25252Fid1760541849%2522%252C%2522RedirectOptions%2522%253A%257B%25225%2522%253Anull%252C%25221%2522%253Anull%257D%257D%26digest%3DwkOVe3r4c%252Fm52t5Zu2YdGIQg1XQTQ5J3czARzNf0agM%253D%26secretVersion%3Da6751a3a834744298598bfc7d73b336f&data=05%7C02%7Cvhellon%40turing.ac.uk%7C0ce823c83de343487fc408dcdbc96e13%7C4395f4a7e4554f958a9f1fbaef6384f9%7C0%7C0%7C638626905446180006%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=Il8dTlIdTVc9mjvu6zUZUvyEAx7TiUxHmnK74lfyWJw%3D&reserved=0). 
 
-![](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)![Text Box: Listen here ](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+[Listen here](https://open.spotify.com/show/2YrjZTXoSAOHFsuQtjgR3z?si=9074b522ebd94963&nd=1&dlsi=c4d2eabe544b4e1e)
 
 ### Partnership Senior Research Community Manager Vicky Hellon presents at AmCham Slovakia's Festival of Future
 
@@ -44,15 +44,15 @@ Our Senior Research Community Manager Vicky Hellon gave a talk on 'What role can
 
 [The Turing Way](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpublic-gbr.mkt.dynamics.com%2Fapi%2Forgs%2Fcd69a60c-3e6e-41d1-9cc4-5dc606fed704%2Fr%2FbFawvUkK3U-4CTi4bd4n3QcAAAA%3Ftarget%3D%257B%2522TargetUrl%2522%253A%2522https%25253A%25252F%25252Fbook.the-turing-way.org%25252Findex.html%2522%252C%2522RedirectOptions%2522%253A%257B%25225%2522%253Anull%252C%25221%2522%253Anull%257D%257D%26digest%3DH%252FKkUAMc2ujBUze50Roc5uu7miS26f3ktIf7NSHRNjc%253D%26secretVersion%3Da6751a3a834744298598bfc7d73b336f&data=05%7C02%7Cvhellon%40turing.ac.uk%7C0ce823c83de343487fc408dcdbc96e13%7C4395f4a7e4554f958a9f1fbaef6384f9%7C0%7C0%7C638626905446220846%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=TlGPAn7diExRyDwkVCdgcmKzIVGH%2F92gnRQHNeSEhro%3D&reserved=0) is a handbook sharing best practices for reproducible, ethical and collaborative data science. As part of her project for the [Turing-Roche Community Scholar Scheme](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpublic-gbr.mkt.dynamics.com%2Fapi%2Forgs%2Fcd69a60c-3e6e-41d1-9cc4-5dc606fed704%2Fr%2FbFawvUkK3U-4CTi4bd4n3QgAAAA%3Ftarget%3D%257B%2522TargetUrl%2522%253A%2522https%25253A%25252F%25252Fwww.turing.ac.uk%25252Fresearch%25252Fresearch-projects%25252Falan-turing-institute-roche-strategic-partnership%25252Fcommunity-scholars%2522%252C%2522RedirectOptions%2522%253A%257B%25221%2522%253Anull%257D%257D%26digest%3Dt2LJ%252FcuUKf%252BbPX6MzfylUvwyOpTh%252FiVSFyWMpkumTeM%253D%26secretVersion%3Da6751a3a834744298598bfc7d73b336f&data=05%7C02%7Cvhellon%40turing.ac.uk%7C0ce823c83de343487fc408dcdbc96e13%7C4395f4a7e4554f958a9f1fbaef6384f9%7C0%7C0%7C638626905446230792%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=PCjAcrv9Xu3Yta0n%2B0IqvRu%2BPcYuoluNr18fnotnBek%3D&reserved=0), Zeena Shawa has written a chapter on missing data handling which provides an overview of this important topic, particularly in the age of 'big data'. She also has written subchapters on missing data structures, visualising missingness, methods to handle missing data and about the Turing-Roche research theme of structured missingness.
 
-![](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png)![Text Box: Read the chapter ](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image003.png)
+[Read the chapter](https://book.the-turing-way.org/project-design/missing-data)
 
 ### Community Scholar Blogs from ECDP 2024 and RSECon 2024
 
 Our Community Scholars Tom Butters and Ellen Visscher recently travelled to the 20th European Congress on Digital Pathology (ECDP) and the Research Software Engineering Conference (RSECon) respectively as part of the scheme. They have both written blogs on their experiences there. 
 
-![](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)![Text Box: Read Tom's ECDP Blog ](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image005.png)
+[Read Tom's ECDP Blog ](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership/ECDP-2024)
 
-![](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image006.png)![Text Box: Read Ellen's RSECon Blog ](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image007.png)
+[Read Ellen's RSECon Blog ](https://www.turing.ac.uk/research/research-projects/alan-turing-institute-roche-strategic-partnership/RSECon)
 
 **Current News and Opportunities from The Alan Turing Institute and Roche**
 ---------------------------------------------------------------------------
@@ -64,7 +64,7 @@ Our Community Scholars Tom Butters and Ellen Visscher recently travelled to the 
 
 The Turing Internship Network (TIN) are advertising paid internships for UK based PhD students. Through a TIN placement, candidates have the opportunity to apply research to real-world challenges, collaborate with innovative teams and gain invaluable experience. There are 7 positions available, across the justice, clean energy, data engineering, insurance and defence & security sectors.
 
-![](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)![Text Box: Find out more and apply here ](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image009.png)
+[Find out more and apply here ](https://www.turing.ac.uk/opportunities-turing/turing-internship-network/apply-turing-internship-network)
 
 ### Analytical Data Scientist Role at Roche
 
@@ -72,11 +72,11 @@ Roche's UK site in Welwyn are looking for an Analytical Data Scientist to work w
 
 The successful candidate will provide analytical and programming expertise and/or leadership support for the reporting and analysis of clinical trials and related submissions to Health Authorities worldwide. They will be skilled in creating analytical and data applications that can be used across different products.
 
-![](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image010.png)![Text Box: Find out more and apply here ](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image009.png)
+[Find out more and apply here](https://careers.roche.com/global/en/job/202409-122854/Analytical-Data-Scientist-Statistical-Programmer)
 
-![](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image011.png)![Text Box: Current Turing job vacancies ](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image012.png)
+[Current Turing job vacancies](https://cezanneondemand.intervieweb.it/turing/en/career?msdynmkt_trackingcontext=bdb0566c-0a49-4fdd-b809-38b86dde27dd#vacancies)
 
-![](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image011.png)![Text Box: Current Roche job vacancies ](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image013.png)
+[Current Roche job vacancies](https://careers.roche.com/global/en#msdynmkt_trackingcontext=bdb0566c-0a49-4fdd-b809-38b86dde27dd)
 
 ![](https://assets-gbr.mkt.dynamics.com/cd69a60c-3e6e-41d1-9cc4-5dc606fed704/digitalassets/images/4fb3251c-79eb-ee11-a1fe-002248018373?ts=638470583908220428)
 
@@ -130,7 +130,7 @@ This free to attend NHS Hack Day Event will be held at Chelsea and Westminster H
 
 Queen Mary University of London is hiring up to 30 new permanent academic positions (all academic levels) in AI, Machine Learning and Computing. These strategic hires will be based in the Faculty of Science and Engineering and will integrate with existing teams in areas such as healthcare, medical imaging and MedTech; genomics and life sciences and mathematical foundations, risks and opportunities of AI.
 
-![](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png)![Text Box: Apply here ](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image015.png)
+[Apply here](https://www.qmul.ac.uk/strategic-hires-se/#msdynmkt_trackingcontext=bdb0566c-0a49-4fdd-b809-38b86dde27dd)
 
 ### Research Associate/Fellow Position in Statistics of Missing Data at University of Glasgow
 
@@ -138,7 +138,7 @@ Queen Mary University of London is hiring up to 30 new permanent academic positi
 
 University of Glasgow's School of Geographical & Earth Sciences is looking to recruit a Research Associate/Fellow to make a leading contribution to the growing research in Geospatial Data Science Group. The successful candidate will work with Professor Ana Basiri and the growing team on newly awarded research projects including 'Missing Data as Useful Data'.
 
-![](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image004.png)![Text Box: Apply here ](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png)
+[Apply here](https://www.jobs.ac.uk/job/DJN638/research-associate-fellow-in-statistics-of-missing-data)
 
 ### Harkness Fellowships in Health Care Policy and Practice
 
@@ -148,7 +148,7 @@ The Commonwealth Fund, in collaboration with the Health Foundation and the Natio
 
 Fellows will spend 12 months in the United States, conducting research and demonstrating their commitment to advancing health care policy and practice. 
 
-![](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image017.png)![Text Box: Apply here ](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png)
+[Apply here](https://www.health.org.uk/funding-and-partnerships/fellowships/harkness-fellowships-in-health-care-policy-and-practice#msdynmkt_trackingcontext=bdb0566c-0a49-4fdd-b809-38b86dde27dd)
 
 ## Publication of the Month
 ----------------------------
@@ -161,7 +161,7 @@ September's publication of the month is 'Accelerating histopathology workflows w
 
 The partnership recently hosted an ['AI in Pathology' ](https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fpublic-gbr.mkt.dynamics.com%2Fapi%2Forgs%2Fcd69a60c-3e6e-41d1-9cc4-5dc606fed704%2Fr%2FbFawvUkK3U-4CTi4bd4n3SAAAAA%3Ftarget%3D%257B%2522TargetUrl%2522%253A%2522https%25253A%25252F%25252Fwww.turing.ac.uk%25252Fevents%25252Fai-pathology-event-research-meets-reality%2522%252C%2522RedirectOptions%2522%253A%257B%25221%2522%253Anull%257D%257D%26digest%3D66zNNDaJkwEE8PRqWAf1xpeXpXI9Hahz%252FyHrB%252Bd32%252BI%253D%26secretVersion%3Da6751a3a834744298598bfc7d73b336f&data=05%7C02%7Cvhellon%40turing.ac.uk%7C0ce823c83de343487fc408dcdbc96e13%7C4395f4a7e4554f958a9f1fbaef6384f9%7C0%7C0%7C638626905446495992%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=Ul1NRpTK5s85%2FdLn3X2BD6eWHSbV5VNdktgcTOqkVvw%3D&reserved=0)workshop discussing the use of AI tools in this space, so this paper is very relevant. The authors, from IBM Research Europe and the University of Bern, discuss the use of a generative artificial intelligence toolkit that is able to accelerate histopathology workflows and improve clinical prediction in cancer biology.
 
-![](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image018.png)![Text Box: Read the paper here ](file:///C:/Users/vhellon/AppData/Local/Temp/msohtmlclip1/01/clip_image019.png)
+[Read the paper here](https://www.nature.com/articles/s42256-024-00889-5#msdynmkt_trackingcontext=bdb0566c-0a49-4fdd-b809-38b86dde27dd)
 
 ## The Turing-Roche Strategic Partnership team
 -----------------------------------------------
