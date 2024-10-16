@@ -70,6 +70,11 @@ The scientific objectives for the multimodal are still being determined! In the 
 | 14 February 2024 | Random walk with restart on multilayer networks: from node prioritisation to supervised link prediction and beyond | BMC Bioinformatics | Anthony Baptista | [Here](https://link.springer.com/article/10.1186/s12859-024-05683-z) 
 | 11 July 2024 | How Deep is your Guess? A Fresh Perspective on Deep Learning for Medical Time-Series Imputation | arXiv | Robin Mitra | [Prepint link](https://arxiv.org/abs/2407.08442)
 
+### Associated publications from partnership members under the Predictive Modelling Theme
+| Publication Date | Title | Publication Venue | Partnership Authors | Link |
+|:-----|:--------|:-----------|:----------|:----------|
+| 03 April 2024 | FDR control and FDP bounds for conformal link prediction | arXiv | Ariane Marandon-Carlhian | [Prepint link](https://arxiv.org/abs/2404.02542)
+
 ### Publications from the independent research of our partnership Theme Leads
 | Publication Date | Title | Publication Venue | Partnership Authors | Link |
 |:-----|:--------|:-----------|:----------|:----------|
