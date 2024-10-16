@@ -67,6 +67,7 @@ The scientific objectives for the multimodal are still being determined! In the 
 | 07 March 2023 | Higher-order signal processing with the Dirac operator | IEEE | Ginestra Bianconi | [Here](https://ieeexplore.ieee.org/abstract/document/10052062)
 | 10 March 2023 | The dynamic nature of percolation on networks with triadic interactions | Nature Communications | Ginestra Bianconi | [Here](https://www.nature.com/articles/s41467-023-37019-5)
 | 11 May 2023 | Neuroscience needs Network Science | arXiv | Ginestra Bianconi | [Preprint link](https://arxiv.org/abs/2305.06160)
+| 11 July 2024 | How Deep is your Guess? A Fresh Perspective on Deep Learning for Medical Time-Series Imputation | arXiv | Robin Mitra | [Prepint link](https://arxiv.org/abs/2407.08442)
 
 ### Publications from the independent research of our partnership Theme Leads
 | Publication Date | Title | Publication Venue | Partnership Authors | Link |
